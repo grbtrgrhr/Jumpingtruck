@@ -1,0 +1,1740 @@
+﻿Log file open, 05/16/18 14:49:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Jumpingtruck
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2046661462) SRandInit(2046661462).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.204479
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Nvidia/Ansel/Binaries/Win64/UE4Editor-Ansel.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin Ansel
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.16-21.49.40:773][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.16-21.49.40:773][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.16-21.49.40:837][  0]LogInit: Computer: DESKTOP-KAES2OF
+[2018.05.16-21.49.40:837][  0]LogInit: User: gamer
+[2018.05.16-21.49.40:837][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.16-21.49.40:837][  0]LogInit: High frequency timer resolution =3.515630 MHz
+[2018.05.16-21.49.40:838][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2018.05.16-21.49.40:838][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.16-21.49.40:838][  0]LogMemory: Process Physical Memory: 275.66 MB used, 275.66 MB peak
+[2018.05.16-21.49.40:838][  0]LogMemory: Process Virtual Memory: 272.41 MB used, 272.41 MB peak
+[2018.05.16-21.49.40:838][  0]LogMemory: Physical Memory: 8811.46 MB used,  3355.38 MB free, 12166.84 MB total
+[2018.05.16-21.49.40:838][  0]LogMemory: Virtual Memory: 4779.96 MB used,  3355.38 MB free, 134217728.00 MB total
+[2018.05.16-21.49.41:035][  0]LogInit: Using OS detected language (en-US).
+[2018.05.16-21.49.41:035][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.16-21.49.41:038][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.16-21.49.41:519][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.16-21.49.47:314][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.16-21.49.47:384][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.05.16-21.49.47:384][  0]LogD3D11RHI:       6052/0/6083 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.16-21.49.47:392][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.05.16-21.49.47:392][  0]LogD3D11RHI:       128/0/6083 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.05.16-21.49.47:393][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.16-21.49.47:393][  0]LogD3D11RHI:       0/0/6083 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.16-21.49.47:393][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.16-21.49.47:403][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.16-21.49.47:403][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.16-21.49.47:403][  0]LogWindows: EnumDisplayDevices:
+[2018.05.16-21.49.47:403][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.05.16-21.49.47:403][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.05.16-21.49.47:403][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.05.16-21.49.47:404][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.05.16-21.49.47:404][  0]LogWindows:    4. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.05.16-21.49.47:404][  0]LogWindows:    5. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.05.16-21.49.47:404][  0]LogWindows:    6. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.05.16-21.49.47:404][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.16-21.49.47:404][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.05.16-21.49.47:404][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.16-21.49.47:404][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.16-21.49.47:404][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.05.16-21.49.47:441][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.16-21.49.47:460][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.16-21.49.47:503][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Intermediate/Shaders/WorkingDirectory/29680/).
+[2018.05.16-21.49.47:503][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/gamer/AppData/Local/Temp/UnrealShaderWorkingDir/E760B65B4E4504DF85FD4297BD2C7043/'.
+[2018.05.16-21.49.47:503][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.16-21.49.52:103][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.16-21.49.52:174][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.16-21.49.52:248][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.16-21.49.52:318][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.16-21.49.52:413][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.16-21.49.52:484][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.16-21.49.52:551][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.16-21.49.52:615][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.16-21.49.52:669][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.16-21.49.52:729][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.16-21.49.52:792][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.16-21.49.52:854][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.16-21.49.52:918][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.16-21.49.52:979][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.16-21.49.53:107][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.16-21.49.53:108][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.16-21.49.53:196][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.16-21.49.53:254][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.16-21.49.53:385][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.16-21.49.53:416][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.16-21.49.53:478][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.16-21.49.53:538][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.16-21.49.53:600][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.16-21.49.53:675][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.16-21.49.53:675][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.16-21.49.54:302][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.16-21.49.55:028][  0]LogDerivedDataCache: Loaded boot cache 0.73s 209MB C:/Users/gamer/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.16-21.49.55:028][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/gamer/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.05.16-21.49.55:029][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.16-21.49.55:029][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.16-21.49.55:029][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.16-21.49.55:029][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.16-21.49.55:043][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.16-21.49.55:056][  0]LogDerivedDataCache: Using Local data cache path C:/Users/gamer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.16-21.49.55:082][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.16-21.49.56:729][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.16-21.49.56:730][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.16-21.49.56:730][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.16-21.49.57:506][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.16-21.49.58:444][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.16-21.49.58:557][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.16-21.49.58:557][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.16-21.49.58:557][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.16-21.49.58:557][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.16-21.49.58:557][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.16-21.49.58:631][  0]LogNetVersion: Jumpingtruck , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1102739741)
+[2018.05.16-21.49.59:043][  0]LogAssetRegistry: FAssetRegistry took 0.0320 seconds to start up
+[2018.05.16-21.50.00:272][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.125186 seconds
+[2018.05.16-21.50.00:282][  0]LogUObjectArray: 35459 objects as part of root set at end of initial load.
+[2018.05.16-21.50.00:282][  0]LogUObjectAllocator: 7283816 out of 0 bytes used by permanent object pool.
+[2018.05.16-21.50.00:282][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.16-21.50.00:452][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.16-21.50.41:498][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.16-21.50.41:596][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.16-21.50.43:618][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.16-21.50.45:371][  0]SourceControl: Source control is disabled
+[2018.05.16-21.50.45:372][  0]SourceControl: Source control is disabled
+[2018.05.16-21.50.45:530][  0]SourceControl: Source control is disabled
+[2018.05.16-21.50.45:679][  0]SourceControl: Source control is disabled
+[2018.05.16-21.50.48:409][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.16-21.50.49:355][  0]LogAnsel: Tried to load ../../../Engine/Plugins/Runtime/Nvidia/Ansel/Binaries/ThirdParty/AnselSDK64.dll : success=1
+[2018.05.16-21.50.50:122][  0]LogEngine: Initializing Engine...
+[2018.05.16-21.50.51:854][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.16-21.50.51:854][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.16-21.50.52:246][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.16-21.50.52:287][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-21.50.52:369][  0]LogInit: FAudioDevice initialized.
+[2018.05.16-21.50.52:616][  0]LogDerivedDataCache: Saved boot cache 0.25s 78MB C:/Users/gamer/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.16-21.50.52:635][  0]LogInit: Texture streaming: Enabled
+[2018.05.16-21.50.52:901][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.16-21.50.53:010][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={4A93B614-4A8B-00DF-45CE-33ABEBD8E9BC}
+[2018.05.16-21.50.53:386][  0]LogInit: Transaction tracking system initialized
+[2018.05.16-21.50.54:310][  0]BlueprintLog: New page: Editor Load
+[2018.05.16-21.50.56:946][  0]LocalizationService: Localization service is disabled
+[2018.05.16-21.50.59:548][  0]LogConsoleResponse: Display: 
+[2018.05.16-21.51.00:965][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.16-21.51.00:965][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.16-21.51.00:965][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.16-21.51.01:940][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/' took 0.02s
+[2018.05.16-21.51.05:261][  0]SourceControl: Source control is disabled
+[2018.05.16-21.51.05:261][  0]Cmd: MAP LOAD FILE="../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.16-21.51.05:559][  0]LightingResults: New page: Lighting Build
+[2018.05.16-21.51.05:679][  0]MapCheck: New page: Map Check
+[2018.05.16-21.51.05:680][  0]LightingResults: New page: Lighting Build
+[2018.05.16-21.51.07:020][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.05.16-21.52.32:518][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.16-21.52.32:530][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.16-21.52.32:585][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.277ms to complete.
+[2018.05.16-21.52.32:585][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 87.325
+[2018.05.16-21.52.32:845][  0]LogCollectionManager: Loaded 0 collections in 0.002573 seconds
+[2018.05.16-21.52.32:955][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Collections/' took 0.01s
+[2018.05.16-21.52.32:955][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/Developers/gamer/Collections/' took 0.01s
+[2018.05.16-21.52.32:955][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/Collections/' took 0.01s
+[2018.05.16-21.52.32:955][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.16-21.52.32:962][  0]LogContentBrowser: Native class hierarchy populated in 0.0067 seconds. Added 2356 classes and 510 folders.
+[2018.05.16-21.52.33:039][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.16-21.52.33:887][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.16-21.52.33:941][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.16-21.52.34:001][  0]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.16-21.52.34:003][  0]LogSlate: Took 0.000317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.16-21.52.34:050][  0]LogSlate: Took 0.040655 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.16-21.52.34:222][  0]LogRenderer: Reallocating scene render targets to support 1200x576 Format 10 NumSamples 1 (Frame:1).
+[2018.05.16-21.52.34:457][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.16-21.52.34:457][  0]LogLoad: (Engine Initialization) Total time: 182.41 seconds
+[2018.05.16-21.52.34:457][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.16-21.52.34:457][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.05.16-21.52.34:457][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.05.16-21.52.34:812][  0]LogAssetRegistry: Asset discovery search completed in 155.7928 seconds
+[2018.05.16-21.52.34:814][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.16-21.52.34:814][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2018.05.16-21.52.34:817][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.05.16-21.52.34:891][  0]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.16-21.52.35:800][  3]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.16-21.55.25:770][679]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-21.55.25:838][679]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-21.55.25:838][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-21.55.25:838][679]PIE: New page: PIE session: FirstPersonExampleMap (May 16, 2018, 7:55:25 AM)
+[2018.05.16-21.55.25:838][679]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.05.16-21.55.25:866][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027137s)
+[2018.05.16-21.55.25:866][679]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.05.16-21.55.25:867][679]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2018.05.16-21.55.25:867][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.028596s)
+[2018.05.16-21.55.25:890][679]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-21.55.25:923][679]LogInit: FAudioDevice initialized.
+[2018.05.16-21.55.25:972][679]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-21.55.25:975][679]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.05.16-14.55.25
+[2018.05.16-21.55.25:975][679]LogWorld: Bringing up level for play took: 0.001595
+[2018.05.16-21.55.26:029][679]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.05.16-21.55.26:029][679]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.668
+[2018.05.16-21.55.26:030][679]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-21.55.26:033][679]LogAnsel: We reckon 0.010000 meters to 1 world unit
+[2018.05.16-21.55.35:393][533]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-21.55.35:423][533]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-21.55.36:754][672]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.16-21.55.37:220][672]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.05.16-21.55.37:835][672]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.16-21.55.37:948][672]LogSlate: Took 0.016555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.16-21.55.39:372][781]LogSlate: Took 0.016175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.16-21.56.10:816][706]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-21.56.10:837][706]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-21.56.10:837][706]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.16-21.56.10:850][706]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.05.16-21.56.11:025][706]LogPlayLevel: PlayLevel: Blueprint regeneration took 186 ms (1 blueprints)
+[2018.05.16-21.56.11:025][706]PIE: New page: PIE session: FirstPersonExampleMap (May 16, 2018, 7:56:11 AM)
+[2018.05.16-21.56.11:025][706]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.05.16-21.56.11:041][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015760s)
+[2018.05.16-21.56.11:041][706]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.05.16-21.56.11:042][706]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2018.05.16-21.56.11:042][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016712s)
+[2018.05.16-21.56.11:075][706]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-21.56.11:105][706]LogInit: FAudioDevice initialized.
+[2018.05.16-21.56.11:141][706]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-21.56.11:143][706]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.05.16-14.56.11
+[2018.05.16-21.56.11:143][706]LogWorld: Bringing up level for play took: 0.001341
+[2018.05.16-21.56.11:144][706]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.217
+[2018.05.16-21.56.11:144][706]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-21.56.24:229][ 70]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-21.56.24:268][ 70]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-21.56.24:970][145]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-21.56.24:984][145]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-21.56.24:984][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-21.56.24:984][145]PIE: New page: PIE session: FirstPersonExampleMap (May 16, 2018, 7:56:24 AM)
+[2018.05.16-21.56.24:984][145]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.05.16-21.56.25:001][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016371s)
+[2018.05.16-21.56.25:001][145]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.05.16-21.56.25:002][145]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2018.05.16-21.56.25:002][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017659s)
+[2018.05.16-21.56.25:032][145]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-21.56.25:066][145]LogInit: FAudioDevice initialized.
+[2018.05.16-21.56.25:106][145]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-21.56.25:109][145]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.05.16-14.56.25
+[2018.05.16-21.56.25:109][145]LogWorld: Bringing up level for play took: 0.001730
+[2018.05.16-21.56.25:111][145]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.25
+[2018.05.16-21.56.25:111][145]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-21.56.44:014][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-21.56.44:058][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-21.56.48:769][391]LogSavePackage: Save=142.83ms
+[2018.05.16-21.56.48:769][391]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/FirstPersonExampleMapFBD27DEF4DEB0F69AF8237B947A9F05A.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.05.16-21.56.48:776][391]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.05.16-21.56.48:801][391]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.285
+[2018.05.16-21.56.48:835][391]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.16-21.56.48:859][391]LightingResults: New page: Lighting Build
+[2018.05.16-21.56.48:859][391]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.05.16-21.56.48:861][391]MapCheck: New page: Map Check
+[2018.05.16-21.56.48:861][391]LightingResults: New page: Lighting Build
+[2018.05.16-21.56.49:186][391]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.16-21.56.49:196][391]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.16-21.56.49:222][391]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.16-21.56.49:279][391]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.512ms to complete.
+[2018.05.16-21.56.49:279][391]LogFileHelpers: Loading map 'Template_Default' took 0.468
+[2018.05.16-21.56.50:444][497]Cmd: POLY SELECT ADJACENT WALLS
+[2018.05.16-21.56.52:982][739]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2018.05.16-21.56.53:034][739]LogEditorActor: Deleted 1 Actors (0.132 secs)
+[2018.05.16-21.56.55:196][985]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2018.05.16-21.56.55:211][985]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2018.05.16-21.56.57:747][263]LogEditorActor: Deleted Actor: AtmosphericFog
+[2018.05.16-21.56.57:762][263]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2018.05.16-21.56.59:290][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.16-21.57.00:608][559]Cmd: POLY SELECT ADJACENT WALLS
+[2018.05.16-21.57.34:293][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/Level_1" FILE="../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.16-21.57.34:331][467]LogSavePackage: Save=20.42ms
+[2018.05.16-21.57.34:331][467]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Level_13B84A0FA464FBE378C24098E66931831.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/Level_1.umap'
+[2018.05.16-21.57.34:335][467]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/Level_1.umap
+[2018.05.16-21.57.34:360][467]LogFileHelpers: Saving map 'Level_1' took 0.133
+[2018.05.16-21.57.34:463][467]LogSavePackage: Save=86.27ms
+[2018.05.16-21.57.34:463][467]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/FirstPersonCharacter16202407451A3F6242759F8A29D525C3.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.16-21.57.34:467][467]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.16-21.57.54:140][596]LogAIModule: Creating AISystem for world Level_1
+[2018.05.16-21.57.59:235][961]LightingResults: New page: Lighting Build
+[2018.05.16-21.57.59:236][961]MapCheck: New page: Map Check
+[2018.05.16-21.57.59:236][961]LightingResults: New page: Lighting Build
+[2018.05.16-21.57.59:253][961]LogAIModule: Creating AISystem for world Untitled
+[2018.05.16-21.57.59:263][961]LoadErrors: New page: New Map
+[2018.05.16-21.57.59:267][961]LogLinker: Can't find file '/Game/map/Level_1_BuiltData'
+[2018.05.16-21.57.59:267][961]LogLinker: Can't find file '/Game/map/Level_1_BuiltData'
+[2018.05.16-21.57.59:269][961]LogLinker: Can't find file '/Game/map/Level_1_BuiltData'
+[2018.05.16-21.57.59:274][961]LogAIModule: Creating AISystem for world Level_1
+[2018.05.16-21.58.01:234][961]LoadErrors: Error: /Game/map/Level_1 : Failed import for MapBuildDataRegistry /Game/map/Level_1_BuiltData.Level_1_BuiltData Referenced by export Level /Game/map/Level_1.Level_1:PersistentLevel
+[2018.05.16-21.58.07:045][442]LogSavePackage: Save=20.61ms
+[2018.05.16-21.58.07:045][442]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Level_1EEC700B44A538503227D35920486FC03.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/stages/1/Level_1.umap'
+[2018.05.16-21.58.07:049][442]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/stages/1/Level_1.umap
+[2018.05.16-21.58.07:050][442]LogFileHelpers: Saving map 'Level_1' took 0.109
+[2018.05.16-21.58.07:055][442]Cmd: MAP LOAD FILE="../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/stages/1/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.16-21.58.07:055][442]LightingResults: New page: Lighting Build
+[2018.05.16-21.58.07:056][442]LoadErrors: New page: Loading map: Level_1.umap
+[2018.05.16-21.58.07:056][442]MapCheck: New page: Map Check
+[2018.05.16-21.58.07:056][442]LightingResults: New page: Lighting Build
+[2018.05.16-21.58.07:072][442]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.16-21.58.07:112][442]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.16-21.58.07:173][442]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.672ms to complete.
+[2018.05.16-21.58.07:174][442]LogFileHelpers: Loading map 'Level_1' took 0.121
+[2018.05.16-21.58.09:976][757]LogEditorViewport: Clicking Background
+[2018.05.16-21.58.10:401][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.16-21.59.07:033][298]LogSavePackage: Save=9.99ms
+[2018.05.16-21.59.07:033][298]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/level1-2C80AFF644B0C05DE1605CDA9B8541EE2.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/stages/1/level1-2.umap'
+[2018.05.16-21.59.07:037][298]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/stages/1/level1-2.umap
+[2018.05.16-21.59.07:037][298]LogFileHelpers: Saving map 'level1-2' took 0.099
+[2018.05.16-21.59.07:040][298]Cmd: MAP LOAD FILE="../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/stages/1/level1-2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.16-21.59.07:040][298]LightingResults: New page: Lighting Build
+[2018.05.16-21.59.07:041][298]LoadErrors: New page: Loading map: level1-2.umap
+[2018.05.16-21.59.07:044][298]MapCheck: New page: Map Check
+[2018.05.16-21.59.07:044][298]LightingResults: New page: Lighting Build
+[2018.05.16-21.59.07:059][298]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.16-21.59.07:060][298]LogAIModule: Creating AISystem for world level1-2
+[2018.05.16-21.59.07:098][298]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.16-21.59.07:155][298]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.813ms to complete.
+[2018.05.16-21.59.07:157][298]LogFileHelpers: Loading map 'level1-2' took 0.118
+[2018.05.16-21.59.11:004][741]Cmd: MAP LOAD FILE="../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/stages/1/level1-2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.16-21.59.11:004][741]LightingResults: New page: Lighting Build
+[2018.05.16-21.59.11:005][741]LoadErrors: New page: Loading map: level1-2.umap
+[2018.05.16-21.59.11:005][741]MapCheck: New page: Map Check
+[2018.05.16-21.59.11:005][741]LightingResults: New page: Lighting Build
+[2018.05.16-21.59.11:021][741]LogAIModule: Creating AISystem for world level1-2
+[2018.05.16-21.59.11:022][741]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.16-21.59.11:052][741]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.16-21.59.11:112][741]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.818ms to complete.
+[2018.05.16-21.59.11:114][741]LogFileHelpers: Loading map 'level1-2' took 0.111
+[2018.05.16-21.59.14:840][ 36]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.16-21.59.14:865][ 36]LightingResults: New page: Lighting Build
+[2018.05.16-21.59.14:866][ 36]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.05.16-21.59.14:866][ 36]MapCheck: New page: Map Check
+[2018.05.16-21.59.14:866][ 36]LightingResults: New page: Lighting Build
+[2018.05.16-21.59.14:943][ 36]LogAIModule: Creating AISystem for world Untitled_3
+[2018.05.16-21.59.14:951][ 36]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.16-21.59.14:978][ 36]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.16-21.59.15:041][ 36]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.959ms to complete.
+[2018.05.16-21.59.15:041][ 36]LogFileHelpers: Loading map 'Template_Default' took 0.202
+[2018.05.16-21.59.16:837][232]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2018.05.16-21.59.16:850][232]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.05.16-21.59.17:708][333]LogEditorActor: Deleted Actor: SkyLight
+[2018.05.16-21.59.17:721][333]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.05.16-21.59.18:444][412]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2018.05.16-21.59.18:458][412]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.05.16-21.59.19:727][553]LogEditorActor: Deleted Actor: AtmosphericFog
+[2018.05.16-21.59.19:742][553]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2018.05.16-21.59.35:569][336]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.05.16-21.59.35:588][336]LogMaterial: Missing cached shader map for material ground, compiling. 
+[2018.05.16-21.59.37:162][336]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2018.05.16-21.59.38:078][336]LogMaterial: Missing cached shader map for material ground, compiling. 
+[2018.05.16-21.59.39:951][340]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.05.16-21.59.39:951][340]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.05.16-21.59.39:951][340]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.16-21.59.39:951][340]MaterialEditorStats: Texture samplers: 2/16
+[2018.05.16-21.59.46:638][ 62]LogMaterial: Missing cached shader map for material ground, compiling. 
+[2018.05.16-21.59.48:445][176]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.05.16-21.59.48:445][176]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.05.16-21.59.48:445][176]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.16-21.59.48:445][176]MaterialEditorStats: Texture samplers: 2/16
+[2018.05.16-21.59.48:840][215]LogMaterial: Missing cached shader map for material ground, compiling. 
+[2018.05.16-21.59.50:850][345]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.05.16-21.59.50:850][345]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.05.16-21.59.50:850][345]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.16-21.59.50:850][345]MaterialEditorStats: Texture samplers: 2/16
+[2018.05.16-22.02.01:039][977]LogMaterial: Missing cached shader map for material ground, compiling. 
+[2018.05.16-22.02.01:134][977]LogMaterial: Missing cached shader map for material ground, compiling. 
+[2018.05.16-22.02.01:541][978]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.05.16-22.02.03:934][110]LogMaterial: Missing cached shader map for material ground, compiling. 
+[2018.05.16-22.02.06:915][192]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.05.16-22.02.06:915][192]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.05.16-22.02.06:915][192]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.16-22.02.06:915][192]MaterialEditorStats: Texture samplers: 2/16
+[2018.05.16-22.08.31:798][243]LogMaterial: Missing cached shader map for material ground, compiling. 
+[2018.05.16-22.08.31:885][243]LogMaterial: Missing cached shader map for material ground, compiling. 
+[2018.05.16-22.08.32:031][243]LogMaterial: Missing cached shader map for material ground, compiling. 
+[2018.05.16-22.08.32:130][243]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ground, compiling. 
+[2018.05.16-22.08.33:972][243]TextureStreamingBuild: Display: Compiling optional shaders took 1.881 seconds.
+[2018.05.16-22.09.15:388][367]LogSavePackage: Save=24.67ms
+[2018.05.16-22.09.15:388][367]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Untitled_3_Auto195F378F048B8372CE673239235A8E991.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Temp/Untitled_3_Auto1.umap'
+[2018.05.16-22.09.15:390][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Temp/Untitled_3_Auto1.umap
+[2018.05.16-22.09.15:396][367]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_3' took 0.052
+[2018.05.16-22.09.15:396][367]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.052
+[2018.05.16-22.09.15:413][367]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mat/ground] ([1] browsable assets)...
+[2018.05.16-22.09.15:465][367]OBJ SavePackage:     Rendered thumbnail for [Material /Game/mat/ground.ground]
+[2018.05.16-22.09.15:465][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/mat/ground]
+[2018.05.16-22.09.15:465][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mat/ground" FILE="../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Game/mat/ground_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.16-22.09.15:547][367]LogSavePackage: Save=75.62ms
+[2018.05.16-22.09.15:547][367]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/ground_Auto1A3BDAF1C43AF0C37244DB18990C74207.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Game/mat/ground_Auto1.uasset'
+[2018.05.16-22.09.15:549][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Game/mat/ground_Auto1.uasset
+[2018.05.16-22.09.15:549][367]LogFileHelpers: Auto-saving content packages took 0.150
+[2018.05.16-22.11.58:084][349]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/gamer/Documents/ground.fbx)
+[2018.05.16-22.11.58:459][349]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.05.16-22.11.58:459][349]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.05.16-22.11.58:459][349]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.05.16-22.11.58:459][349]LogFbx: ItemName: Model, ItemCount : 2
+[2018.05.16-22.11.58:460][349]LogFbx: ItemName: Material, ItemCount : 1
+[2018.05.16-22.11.58:519][349]LogFbx: Loading FBX Scene from ../../../../../../Users/gamer/Documents/ground.fbx
+[2018.05.16-22.11.58:577][349]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.16-22.12.03:919][349]LogFbx: Loading FBX Scene from ../../../../../../Users/gamer/Documents/ground.fbx
+[2018.05.16-22.12.03:924][349]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.16-22.12.03:960][349]LogLinker: Can't find file '/Game/mesh/Material'
+[2018.05.16-22.12.03:960][349]LogLinker: Can't find file '/Game/mesh/Material'
+[2018.05.16-22.12.04:004][349]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2018.05.16-22.12.04:025][349]LogFbx: Warning: Triangulating static mesh Cube
+[2018.05.16-22.12.04:150][349]LogStaticMesh: Building static mesh ground...
+[2018.05.16-22.12.04:243][349]LogStaticMesh: Built static mesh [0.10s] /Game/mesh/ground.ground
+[2018.05.16-22.12.04:243][349]LogStaticMesh: Warning: ground has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.05.16-22.12.04:243][349]LogStaticMesh: Warning: ground has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.05.16-22.12.04:358][349]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.05.16-22.12.04:358][349]FBXImport: Warning: ground has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.05.16-22.12.04:358][349]FBXImport: Warning: ground has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.05.16-22.12.05:875][447]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2018.05.16-22.12.06:056][447]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2018.05.16-22.12.06:101][447]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2018.05.16-22.12.06:199][447]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.05.16-22.12.11:635][692]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.05.16-22.12.11:635][692]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.05.16-22.12.11:635][692]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.16-22.12.11:635][692]MaterialEditorStats: Texture samplers: 2/16
+[2018.05.16-22.12.13:327][795]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2018.05.16-22.12.13:349][795]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.05.16-22.12.16:462][957]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.05.16-22.12.16:462][957]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.05.16-22.12.16:462][957]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.16-22.12.16:462][957]MaterialEditorStats: Texture samplers: 2/16
+[2018.05.16-22.12.20:219][128]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2018.05.16-22.12.20:294][128]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2018.05.16-22.12.20:380][128]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2018.05.16-22.12.20:486][128]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Material, compiling. 
+[2018.05.16-22.12.21:616][128]TextureStreamingBuild: Display: Compiling optional shaders took 1.160 seconds.
+[2018.05.16-22.12.23:270][248]LogMaterial: Warning: Material /Game/mesh/Material.Material needed to have new flag set bUsedWithStaticLighting !
+[2018.05.16-22.12.23:290][248]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2018.05.16-22.19.19:050][ 71]LogSavePackage: Save=16.52ms
+[2018.05.16-22.19.19:050][ 71]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Untitled_3_Auto2F2E2F385451DAFF35710BABD77EB87FC.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Temp/Untitled_3_Auto2.umap'
+[2018.05.16-22.19.19:051][ 71]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Temp/Untitled_3_Auto2.umap
+[2018.05.16-22.19.19:054][ 71]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_3' took 0.037
+[2018.05.16-22.19.19:054][ 71]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.037
+[2018.05.16-22.19.19:056][ 71]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mesh/ground] ([1] browsable assets)...
+[2018.05.16-22.19.19:067][ 71]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/mesh/ground.ground]
+[2018.05.16-22.19.19:067][ 71]OBJ SavePackage: Finished generating thumbnails for package [/Game/mesh/ground]
+[2018.05.16-22.19.19:067][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mesh/ground" FILE="../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Game/mesh/ground_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.05.16-22.19.19:083][ 71]LogSavePackage: Save=12.83ms
+[2018.05.16-22.19.19:083][ 71]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/ground_Auto2A7B5267C4BFF61F493FD3BAF22B1E7E9.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Game/mesh/ground_Auto2.uasset'
+[2018.05.16-22.19.19:084][ 71]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Game/mesh/ground_Auto2.uasset
+[2018.05.16-22.19.19:084][ 71]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mesh/Material] ([1] browsable assets)...
+[2018.05.16-22.19.19:095][ 71]OBJ SavePackage:     Rendered thumbnail for [Material /Game/mesh/Material.Material]
+[2018.05.16-22.19.19:095][ 71]OBJ SavePackage: Finished generating thumbnails for package [/Game/mesh/Material]
+[2018.05.16-22.19.19:095][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mesh/Material" FILE="../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Game/mesh/Material_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.05.16-22.19.19:151][ 71]LogSavePackage: Save=31.69ms
+[2018.05.16-22.19.19:151][ 71]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Material_Auto26061C2134A166196B6951C91285A49CA.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Game/mesh/Material_Auto2.uasset'
+[2018.05.16-22.19.19:152][ 71]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Game/mesh/Material_Auto2.uasset
+[2018.05.16-22.19.19:152][ 71]LogFileHelpers: Auto-saving content packages took 0.097
+[2018.05.16-22.21.48:015][317]Cmd: POLY SELECT ADJACENT WALLS
+[2018.05.16-22.21.48:139][329]Cmd: POLY SELECT MEMORY UNION
+[2018.05.16-22.21.49:245][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.16-22.21.50:149][533]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.21.50:165][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.21.50:166][533]PIE: New page: PIE session: Untitled_3 (May 16, 2018, 8:21:50 AM)
+[2018.05.16-22.21.50:166][533]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_3
+[2018.05.16-22.21.50:167][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001521s)
+[2018.05.16-22.21.50:168][533]LogAIModule: Creating AISystem for world Untitled_3
+[2018.05.16-22.21.50:168][533]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2018.05.16-22.21.50:169][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_3.Untitled_3 to /Temp/UEDPIE_0_Untitled_3.Untitled_3 (0.002865s)
+[2018.05.16-22.21.50:197][533]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.21.50:227][533]LogInit: FAudioDevice initialized.
+[2018.05.16-22.21.50:257][533]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.21.50:258][533]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_3.Untitled_3 up for play (max tick rate 0) at 2018.05.16-15.21.50
+[2018.05.16-22.21.50:258][533]LogWorld: Bringing up level for play took: 0.000494
+[2018.05.16-22.21.50:280][533]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_3 0.919
+[2018.05.16-22.21.54:064][808]Cmd: POLY SELECT ADJACENT WALLS
+[2018.05.16-22.22.10:464][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.16-22.22.36:993][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/stages/1/1-1" FILE="../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/stages/1/1-1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.16-22.22.37:033][281]LogSavePackage: Save=21.12ms
+[2018.05.16-22.22.37:033][281]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/1-12F3C219E4A582005709D4D80031103D5.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/stages/1/1-1.umap'
+[2018.05.16-22.22.37:040][281]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/stages/1/1-1.umap
+[2018.05.16-22.22.37:067][281]LogFileHelpers: Saving map '1-1' took 15.783
+[2018.05.16-22.22.37:102][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mat/ground" FILE="../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/mat/ground.uasset" SILENT=true
+[2018.05.16-22.22.37:120][281]LogSavePackage: Save=14.71ms
+[2018.05.16-22.22.37:120][281]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/ground8AF4921240CEF837C85489BAD37DC5EE.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/mat/ground.uasset'
+[2018.05.16-22.22.37:128][281]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/mat/ground.uasset
+[2018.05.16-22.22.37:162][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mesh/ground" FILE="../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/mesh/ground.uasset" SILENT=true
+[2018.05.16-22.22.37:194][281]LogSavePackage: Save=14.80ms
+[2018.05.16-22.22.37:194][281]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/groundA81081D245C4209C99C0D0A7B84F33F0.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/mesh/ground.uasset'
+[2018.05.16-22.22.37:200][281]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/mesh/ground.uasset
+[2018.05.16-22.22.37:238][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mesh/Material" FILE="../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/mesh/Material.uasset" SILENT=true
+[2018.05.16-22.22.37:256][281]LogSavePackage: Save=14.86ms
+[2018.05.16-22.22.37:256][281]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Material2D95BA4A4FA74ADDCF5FD2B999C698BA.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/mesh/Material.uasset'
+[2018.05.16-22.22.37:262][281]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/mesh/Material.uasset
+[2018.05.16-22.22.52:938][975]Cmd: MAP LOAD FILE="../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/stages/1/1-1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.16-22.22.52:938][975]LightingResults: New page: Lighting Build
+[2018.05.16-22.22.52:939][975]LoadErrors: New page: Loading map: 1-1.umap
+[2018.05.16-22.22.52:940][975]MapCheck: New page: Map Check
+[2018.05.16-22.22.52:940][975]LightingResults: New page: Lighting Build
+[2018.05.16-22.22.52:965][975]LogLinker: Warning: Can't find file '/Game/map/stages/1/1-1_BuiltData'
+[2018.05.16-22.22.52:965][975]LogLinker: Warning: Can't find file '/Game/map/stages/1/1-1_BuiltData'
+[2018.05.16-22.22.52:968][975]LogLinker: Warning: Can't find file '/Game/map/stages/1/1-1_BuiltData'
+[2018.05.16-22.22.52:972][975]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.22.52:975][975]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.16-22.22.53:075][975]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.16-22.22.53:799][975]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 723.168ms to complete.
+[2018.05.16-22.22.53:801][975]LogFileHelpers: Loading map '1-1' took 0.865
+[2018.05.16-22.22.53:809][975]LoadErrors: Error: /Game/map/stages/1/1-1 : Failed import for MapBuildDataRegistry /Game/map/stages/1/1-1_BuiltData.1-1_BuiltData Referenced by export Level /Game/map/stages/1/1-1.1-1:PersistentLevel
+[2018.05.16-22.22.55:799][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.16-22.22.57:894][379]Cmd: POLY SELECT MEMORY UNION
+[2018.05.16-22.22.58:611][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.16-22.23.01:376][697]Cmd: EDIT COPY
+[2018.05.16-22.23.02:047][697]Cmd: EDIT PASTE
+[2018.05.16-22.23.08:264][316]Cmd: EDIT COPY
+[2018.05.16-22.23.08:473][337]Cmd: EDIT PASTE
+[2018.05.16-22.23.15:732][164]Cmd: EDIT COPY
+[2018.05.16-22.23.15:951][187]Cmd: EDIT PASTE
+[2018.05.16-22.23.28:162][538]Cmd: EDIT COPY
+[2018.05.16-22.23.28:355][557]Cmd: EDIT PASTE
+[2018.05.16-22.23.31:648][887]LogActorFactory: Actor Factory created Cone
+[2018.05.16-22.23.31:716][887]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.05.16-22.23.32:785][962]LogActorFactory: Actor Factory created Cone
+[2018.05.16-22.23.40:601][560]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.23.40:615][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.23.40:615][560]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:23:40 AM)
+[2018.05.16-22.23.40:615][560]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.23.40:616][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001031s)
+[2018.05.16-22.23.40:617][560]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.23.40:617][560]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2018.05.16-22.23.40:617][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.001918s)
+[2018.05.16-22.23.40:642][560]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.23.40:755][560]LogInit: FAudioDevice initialized.
+[2018.05.16-22.23.40:788][560]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.23.40:790][560]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.23.40
+[2018.05.16-22.23.40:790][560]LogWorld: Bringing up level for play took: 0.001143
+[2018.05.16-22.23.40:792][560]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 -0.569
+[2018.05.16-22.23.49:242][395]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.23.49:255][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.23.49:255][395]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:23:49 AM)
+[2018.05.16-22.23.49:256][395]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.23.49:257][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000949s)
+[2018.05.16-22.23.49:257][395]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.23.49:257][395]LogPlayLevel: PIE: World Init took: (0.000540s)
+[2018.05.16-22.23.49:257][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.001702s)
+[2018.05.16-22.23.49:282][395]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.23.49:310][395]LogInit: FAudioDevice initialized.
+[2018.05.16-22.23.49:343][395]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.23.49:344][395]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.23.49
+[2018.05.16-22.23.49:344][395]LogWorld: Bringing up level for play took: 0.000713
+[2018.05.16-22.23.49:346][395]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 -0.016
+[2018.05.16-22.24.00:274][545]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.24.00:289][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.24.00:289][545]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:24:00 AM)
+[2018.05.16-22.24.00:289][545]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.24.00:290][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001137s)
+[2018.05.16-22.24.00:291][545]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.24.00:291][545]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2018.05.16-22.24.00:291][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.002396s)
+[2018.05.16-22.24.00:316][545]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.24.00:343][545]LogInit: FAudioDevice initialized.
+[2018.05.16-22.24.00:382][545]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.24.00:384][545]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.24.00
+[2018.05.16-22.24.00:384][545]LogWorld: Bringing up level for play took: 0.001054
+[2018.05.16-22.24.00:386][545]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 1.025
+[2018.05.16-22.24.23:291][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2018.05.16-22.24.23:987][174]Cmd: EDIT COPY
+[2018.05.16-22.24.24:322][205]Cmd: EDIT PASTE
+[2018.05.16-22.24.34:932][347]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.24.34:945][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.24.34:945][347]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:24:34 AM)
+[2018.05.16-22.24.34:945][347]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.24.34:947][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001002s)
+[2018.05.16-22.24.34:947][347]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.24.34:947][347]LogPlayLevel: PIE: World Init took: (0.000548s)
+[2018.05.16-22.24.34:947][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.001732s)
+[2018.05.16-22.24.34:971][347]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.24.34:999][347]LogInit: FAudioDevice initialized.
+[2018.05.16-22.24.35:035][347]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.24.35:038][347]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.24.35
+[2018.05.16-22.24.35:038][347]LogWorld: Bringing up level for play took: 0.000779
+[2018.05.16-22.24.35:038][347]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 -0.322
+[2018.05.16-22.24.47:170][479]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2018.05.16-22.24.47:170][479]PIE: Warning: PIE failed because map save was canceled
+[2018.05.16-22.24.49:373][724]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.24.49:387][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.24.49:387][724]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:24:49 AM)
+[2018.05.16-22.24.49:387][724]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.24.49:388][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001058s)
+[2018.05.16-22.24.49:389][724]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.24.49:389][724]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2018.05.16-22.24.49:389][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.001812s)
+[2018.05.16-22.24.49:413][724]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.24.49:442][724]LogInit: FAudioDevice initialized.
+[2018.05.16-22.24.49:507][724]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.24.49:508][724]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.24.49
+[2018.05.16-22.24.49:508][724]LogWorld: Bringing up level for play took: 0.000703
+[2018.05.16-22.24.49:510][724]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 0.149
+[2018.05.16-22.24.56:113][333]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.24.56:126][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.24.56:126][333]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:24:56 AM)
+[2018.05.16-22.24.56:126][333]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.24.56:127][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001147s)
+[2018.05.16-22.24.56:127][333]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.24.56:128][333]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2018.05.16-22.24.56:128][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.001991s)
+[2018.05.16-22.24.56:150][333]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.24.56:178][333]LogInit: FAudioDevice initialized.
+[2018.05.16-22.24.56:238][333]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.24.56:239][333]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.24.56
+[2018.05.16-22.24.56:239][333]LogWorld: Bringing up level for play took: 0.000758
+[2018.05.16-22.24.56:240][333]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 0.88
+[2018.05.16-22.25.00:615][683]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.25.00:629][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.25.00:629][683]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:25:00 AM)
+[2018.05.16-22.25.00:629][683]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.25.00:630][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000991s)
+[2018.05.16-22.25.00:630][683]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.25.00:630][683]LogPlayLevel: PIE: World Init took: (0.000494s)
+[2018.05.16-22.25.00:631][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.001677s)
+[2018.05.16-22.25.00:654][683]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.25.00:682][683]LogInit: FAudioDevice initialized.
+[2018.05.16-22.25.00:719][683]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.25.00:720][683]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.25.00
+[2018.05.16-22.25.00:721][683]LogWorld: Bringing up level for play took: 0.000717
+[2018.05.16-22.25.00:722][683]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 -0.639
+[2018.05.16-22.25.11:212][762]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.25.11:228][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.25.11:228][762]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:25:11 AM)
+[2018.05.16-22.25.11:228][762]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.25.11:229][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001009s)
+[2018.05.16-22.25.11:229][762]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.25.11:229][762]LogPlayLevel: PIE: World Init took: (0.000513s)
+[2018.05.16-22.25.11:230][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.001746s)
+[2018.05.16-22.25.11:252][762]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.25.11:280][762]LogInit: FAudioDevice initialized.
+[2018.05.16-22.25.11:312][762]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.25.11:314][762]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.25.11
+[2018.05.16-22.25.11:314][762]LogWorld: Bringing up level for play took: 0.000818
+[2018.05.16-22.25.11:316][762]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 -0.045
+[2018.05.16-22.25.22:842][961]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.25.22:856][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.25.22:856][961]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:25:22 AM)
+[2018.05.16-22.25.22:856][961]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.25.22:858][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001489s)
+[2018.05.16-22.25.22:858][961]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.25.22:859][961]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2018.05.16-22.25.22:859][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.002554s)
+[2018.05.16-22.25.22:884][961]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.25.22:916][961]LogInit: FAudioDevice initialized.
+[2018.05.16-22.25.22:949][961]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.25.22:950][961]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.25.22
+[2018.05.16-22.25.22:950][961]LogWorld: Bringing up level for play took: 0.000728
+[2018.05.16-22.25.22:952][961]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 -0.409
+[2018.05.16-22.26.32:448][648]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.26.32:461][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.26.32:461][648]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:26:32 AM)
+[2018.05.16-22.26.32:461][648]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.26.32:463][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001326s)
+[2018.05.16-22.26.32:464][648]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.26.32:464][648]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2018.05.16-22.26.32:464][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.002744s)
+[2018.05.16-22.26.32:492][648]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.26.32:519][648]LogInit: FAudioDevice initialized.
+[2018.05.16-22.26.32:575][648]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.26.32:577][648]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.26.32
+[2018.05.16-22.26.32:577][648]LogWorld: Bringing up level for play took: 0.000969
+[2018.05.16-22.26.32:579][648]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 -0.782
+[2018.05.16-22.26.41:081][474]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.26.41:126][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.26.41:126][474]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:26:41 AM)
+[2018.05.16-22.26.41:126][474]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.26.41:127][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001033s)
+[2018.05.16-22.26.41:128][474]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.26.41:128][474]LogPlayLevel: PIE: World Init took: (0.000530s)
+[2018.05.16-22.26.41:128][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.001760s)
+[2018.05.16-22.26.41:154][474]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.26.41:181][474]LogInit: FAudioDevice initialized.
+[2018.05.16-22.26.41:218][474]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.26.41:220][474]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.26.41
+[2018.05.16-22.26.41:220][474]LogWorld: Bringing up level for play took: 0.001229
+[2018.05.16-22.26.41:222][474]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 -0.139
+[2018.05.16-22.26.47:363][ 32]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.26.47:378][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.26.47:379][ 32]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:26:47 AM)
+[2018.05.16-22.26.47:379][ 32]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.26.47:380][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001132s)
+[2018.05.16-22.26.47:380][ 32]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.26.47:380][ 32]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2018.05.16-22.26.47:381][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.001828s)
+[2018.05.16-22.26.47:403][ 32]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.26.47:434][ 32]LogInit: FAudioDevice initialized.
+[2018.05.16-22.26.47:468][ 32]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.26.47:470][ 32]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.26.47
+[2018.05.16-22.26.47:470][ 32]LogWorld: Bringing up level for play took: 0.001148
+[2018.05.16-22.26.47:472][ 32]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 0.111
+[2018.05.16-22.26.55:050][724]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.26.55:067][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.26.55:068][724]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:26:55 AM)
+[2018.05.16-22.26.55:068][724]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.26.55:069][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001108s)
+[2018.05.16-22.26.55:069][724]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.26.55:070][724]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2018.05.16-22.26.55:070][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.001936s)
+[2018.05.16-22.26.55:098][724]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.26.55:127][724]LogInit: FAudioDevice initialized.
+[2018.05.16-22.26.55:161][724]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.26.55:162][724]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.26.55
+[2018.05.16-22.26.55:162][724]LogWorld: Bringing up level for play took: 0.000752
+[2018.05.16-22.26.55:164][724]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 -0.196
+[2018.05.16-22.27.03:255][471]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.27.03:270][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.27.03:270][471]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:27:03 AM)
+[2018.05.16-22.27.03:270][471]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.27.03:272][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001660s)
+[2018.05.16-22.27.03:273][471]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.27.03:274][471]LogPlayLevel: PIE: World Init took: (0.001564s)
+[2018.05.16-22.27.03:274][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.003628s)
+[2018.05.16-22.27.03:298][471]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.27.03:328][471]LogInit: FAudioDevice initialized.
+[2018.05.16-22.27.03:360][471]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.27.03:362][471]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.27.03
+[2018.05.16-22.27.03:362][471]LogWorld: Bringing up level for play took: 0.000979
+[2018.05.16-22.27.03:399][471]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 0.037
+[2018.05.16-22.27.10:579][129]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.27.10:593][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.27.10:594][129]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:27:10 AM)
+[2018.05.16-22.27.10:594][129]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.27.10:595][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001304s)
+[2018.05.16-22.27.10:596][129]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.27.10:596][129]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2018.05.16-22.27.10:596][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.002159s)
+[2018.05.16-22.27.10:619][129]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.27.10:650][129]LogInit: FAudioDevice initialized.
+[2018.05.16-22.27.10:686][129]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.27.10:687][129]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.27.10
+[2018.05.16-22.27.10:687][129]LogWorld: Bringing up level for play took: 0.000806
+[2018.05.16-22.27.10:707][129]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 -0.654
+[2018.05.16-22.27.19:416][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2018.05.16-22.27.20:519][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2018.05.16-22.27.23:220][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2018.05.16-22.27.26:524][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2018.05.16-22.27.29:679][ 79]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.27.29:692][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.27.29:706][ 79]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:27:29 AM)
+[2018.05.16-22.27.29:706][ 79]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.27.29:707][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001104s)
+[2018.05.16-22.27.29:707][ 79]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.27.29:707][ 79]LogPlayLevel: PIE: World Init took: (0.000534s)
+[2018.05.16-22.27.29:708][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.001899s)
+[2018.05.16-22.27.29:732][ 79]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.27.29:760][ 79]LogInit: FAudioDevice initialized.
+[2018.05.16-22.27.29:792][ 79]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.27.29:795][ 79]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.27.29
+[2018.05.16-22.27.29:795][ 79]LogWorld: Bringing up level for play took: 0.001467
+[2018.05.16-22.27.29:797][ 79]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 0.436
+[2018.05.16-22.27.33:822][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2018.05.16-22.27.37:237][705]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.27.37:252][705]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.27.37:252][705]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:27:37 AM)
+[2018.05.16-22.27.37:253][705]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.27.37:254][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001234s)
+[2018.05.16-22.27.37:254][705]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.27.37:255][705]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2018.05.16-22.27.37:255][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.002158s)
+[2018.05.16-22.27.37:285][705]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.27.37:315][705]LogInit: FAudioDevice initialized.
+[2018.05.16-22.27.37:346][705]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.27.37:348][705]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.27.37
+[2018.05.16-22.27.37:348][705]LogWorld: Bringing up level for play took: 0.000874
+[2018.05.16-22.27.37:349][705]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 -0.012
+[2018.05.16-22.27.53:227][387]LogRenderer: Reallocating scene render targets to support 1200x576 Format 10 NumSamples 1 (Frame:15772).
+[2018.05.16-22.28.13:772][560]Cmd: EDIT COPY
+[2018.05.16-22.28.15:162][701]Cmd: EDIT COPY
+[2018.05.16-22.28.15:347][715]Cmd: EDIT PASTE
+[2018.05.16-22.28.22:648][515]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.28.22:667][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.28.22:667][515]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:28:22 AM)
+[2018.05.16-22.28.22:667][515]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.28.22:668][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001178s)
+[2018.05.16-22.28.22:669][515]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.28.22:669][515]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2018.05.16-22.28.22:669][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.002043s)
+[2018.05.16-22.28.22:695][515]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.28.22:723][515]LogInit: FAudioDevice initialized.
+[2018.05.16-22.28.22:757][515]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.28.22:758][515]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.28.22
+[2018.05.16-22.28.22:758][515]LogWorld: Bringing up level for play took: 0.000722
+[2018.05.16-22.28.22:759][515]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 -0.602
+[2018.05.16-22.28.31:845][428]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.28.31:858][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.28.31:858][428]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:28:31 AM)
+[2018.05.16-22.28.31:859][428]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.28.31:860][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001283s)
+[2018.05.16-22.28.31:860][428]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.28.31:861][428]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2018.05.16-22.28.31:861][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.002079s)
+[2018.05.16-22.28.31:886][428]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.28.31:916][428]LogInit: FAudioDevice initialized.
+[2018.05.16-22.28.31:952][428]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.28.31:954][428]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.28.31
+[2018.05.16-22.28.31:954][428]LogWorld: Bringing up level for play took: 0.000925
+[2018.05.16-22.28.31:955][428]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 0.594
+[2018.05.16-22.28.41:749][411]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.28.41:763][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.28.41:763][411]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:28:41 AM)
+[2018.05.16-22.28.41:763][411]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.28.41:765][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001392s)
+[2018.05.16-22.28.41:765][411]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.28.41:765][411]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2018.05.16-22.28.41:766][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.002336s)
+[2018.05.16-22.28.41:791][411]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.28.41:822][411]LogInit: FAudioDevice initialized.
+[2018.05.16-22.28.41:854][411]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.28.41:855][411]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.28.41
+[2018.05.16-22.28.41:856][411]LogWorld: Bringing up level for play took: 0.000935
+[2018.05.16-22.28.41:857][411]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 0.497
+[2018.05.16-22.28.55:812][524]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.28.55:849][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.28.55:850][524]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:28:55 AM)
+[2018.05.16-22.28.55:850][524]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.28.55:851][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001155s)
+[2018.05.16-22.28.55:851][524]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.28.55:851][524]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2018.05.16-22.28.55:852][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.001919s)
+[2018.05.16-22.28.55:876][524]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.28.55:907][524]LogInit: FAudioDevice initialized.
+[2018.05.16-22.28.55:944][524]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.28.55:945][524]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.28.55
+[2018.05.16-22.28.55:945][524]LogWorld: Bringing up level for play took: 0.000779
+[2018.05.16-22.28.55:947][524]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 0.586
+[2018.05.16-22.29.23:438][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2018.05.16-22.29.24:001][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2018.05.16-22.29.27:296][934]Cmd: EDIT COPY
+[2018.05.16-22.29.27:536][952]Cmd: EDIT PASTE
+[2018.05.16-22.29.34:548][679]Cmd: EDIT COPY
+[2018.05.16-22.29.34:766][694]Cmd: EDIT PASTE
+[2018.05.16-22.29.44:580][758]Cmd: EDIT COPY
+[2018.05.16-22.29.44:796][781]Cmd: EDIT PASTE
+[2018.05.16-22.29.53:344][733]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.29.53:359][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.29.53:359][733]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:29:53 AM)
+[2018.05.16-22.29.53:359][733]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.29.53:361][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002027s)
+[2018.05.16-22.29.53:362][733]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.29.53:362][733]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2018.05.16-22.29.53:362][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.003343s)
+[2018.05.16-22.29.53:389][733]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.29.53:417][733]LogInit: FAudioDevice initialized.
+[2018.05.16-22.29.53:449][733]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.29.53:451][733]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.29.53
+[2018.05.16-22.29.53:451][733]LogWorld: Bringing up level for play took: 0.001715
+[2018.05.16-22.29.53:573][733]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 0.212
+[2018.05.16-22.30.02:969][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2018.05.16-22.30.08:727][234]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.30.08:742][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.30.08:742][234]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:30:08 AM)
+[2018.05.16-22.30.08:742][234]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.30.08:744][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002165s)
+[2018.05.16-22.30.08:745][234]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.30.08:745][234]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2018.05.16-22.30.08:745][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.003070s)
+[2018.05.16-22.30.08:771][234]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.30.08:805][234]LogInit: FAudioDevice initialized.
+[2018.05.16-22.30.08:840][234]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.30.08:843][234]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.30.08
+[2018.05.16-22.30.08:843][234]LogWorld: Bringing up level for play took: 0.001732
+[2018.05.16-22.30.08:845][234]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 -0.516
+[2018.05.16-22.30.17:776][122]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.30.17:791][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.30.17:791][122]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:30:17 AM)
+[2018.05.16-22.30.17:792][122]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.30.17:893][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.101232s)
+[2018.05.16-22.30.17:893][122]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.30.17:894][122]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2018.05.16-22.30.17:894][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.102385s)
+[2018.05.16-22.30.17:919][122]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.30.17:954][122]LogInit: FAudioDevice initialized.
+[2018.05.16-22.30.18:064][122]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.30.18:065][122]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.30.18
+[2018.05.16-22.30.18:065][122]LogWorld: Bringing up level for play took: 0.000939
+[2018.05.16-22.30.18:067][122]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 0.706
+[2018.05.16-22.31.23:526][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/stages/1/1-1" FILE="../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/stages/1/1-1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.16-22.31.24:055][535]LogSavePackage: Save=148.11ms
+[2018.05.16-22.31.24:056][535]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/1-16DEFBADE46053EED32639F971664D23B.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/stages/1/1-1.umap'
+[2018.05.16-22.31.24:091][535]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/stages/1/1-1.umap
+[2018.05.16-22.31.24:222][535]LogFileHelpers: Saving map '1-1' took 20.032
+[2018.05.16-22.31.42:924][679]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.31.42:938][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.31.42:938][679]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:31:42 AM)
+[2018.05.16-22.31.42:938][679]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.31.42:939][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001413s)
+[2018.05.16-22.31.42:940][679]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.31.42:940][679]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2018.05.16-22.31.42:940][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.002299s)
+[2018.05.16-22.31.42:963][679]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.31.42:989][679]LogInit: FAudioDevice initialized.
+[2018.05.16-22.31.43:022][679]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.31.43:024][679]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.31.43
+[2018.05.16-22.31.43:025][679]LogWorld: Bringing up level for play took: 0.001174
+[2018.05.16-22.31.43:026][679]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 -0.335
+[2018.05.16-22.31.52:943][679]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.31.52:956][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.31.52:957][679]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:31:52 AM)
+[2018.05.16-22.31.52:957][679]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.31.52:958][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001165s)
+[2018.05.16-22.31.52:958][679]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.31.52:958][679]LogPlayLevel: PIE: World Init took: (0.000501s)
+[2018.05.16-22.31.52:959][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.001853s)
+[2018.05.16-22.31.52:980][679]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.31.53:010][679]LogInit: FAudioDevice initialized.
+[2018.05.16-22.31.53:049][679]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.31.53:050][679]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.31.53
+[2018.05.16-22.31.53:050][679]LogWorld: Bringing up level for play took: 0.000796
+[2018.05.16-22.31.53:052][679]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 -0.309
+[2018.05.16-22.32.11:860][578]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.32.11:882][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.32.11:882][578]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:32:11 AM)
+[2018.05.16-22.32.11:882][578]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.32.11:884][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001669s)
+[2018.05.16-22.32.11:884][578]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.32.11:885][578]LogPlayLevel: PIE: World Init took: (0.001089s)
+[2018.05.16-22.32.11:885][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.003025s)
+[2018.05.16-22.32.11:914][578]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.32.11:948][578]LogInit: FAudioDevice initialized.
+[2018.05.16-22.32.11:980][578]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.32.11:982][578]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.32.11
+[2018.05.16-22.32.11:982][578]LogWorld: Bringing up level for play took: 0.001059
+[2018.05.16-22.32.11:984][578]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 0.623
+[2018.05.16-22.32.17:601][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2018.05.16-22.32.52:101][484]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.32.52:116][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.32.52:116][484]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:32:52 AM)
+[2018.05.16-22.32.52:116][484]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.32.52:118][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001382s)
+[2018.05.16-22.32.52:137][484]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.32.52:138][484]LogPlayLevel: PIE: World Init took: (0.019814s)
+[2018.05.16-22.32.52:138][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.021489s)
+[2018.05.16-22.32.52:287][484]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.32.52:317][484]LogInit: FAudioDevice initialized.
+[2018.05.16-22.32.52:348][484]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.32.52:351][484]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.32.52
+[2018.05.16-22.32.52:351][484]LogWorld: Bringing up level for play took: 0.001015
+[2018.05.16-22.32.52:352][484]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 0.991
+[2018.05.16-22.32.59:363][125]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.32.59:376][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.32.59:465][125]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:32:59 AM)
+[2018.05.16-22.32.59:465][125]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.32.59:467][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001950s)
+[2018.05.16-22.32.59:468][125]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.32.59:468][125]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2018.05.16-22.32.59:468][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.003086s)
+[2018.05.16-22.32.59:495][125]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.32.59:528][125]LogInit: FAudioDevice initialized.
+[2018.05.16-22.32.59:563][125]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.32.59:565][125]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.32.59
+[2018.05.16-22.32.59:565][125]LogWorld: Bringing up level for play took: 0.001227
+[2018.05.16-22.32.59:904][125]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 0.544
+[2018.05.16-22.33.06:077][706]Cmd: POLY SELECT ALL
+[2018.05.16-22.33.07:170][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2018.05.16-22.33.11:505][276]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.33.11:519][276]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.33.11:520][276]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:33:11 AM)
+[2018.05.16-22.33.11:520][276]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.33.11:521][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001580s)
+[2018.05.16-22.33.11:522][276]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.33.11:522][276]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2018.05.16-22.33.11:522][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.002715s)
+[2018.05.16-22.33.11:551][276]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.33.11:580][276]LogInit: FAudioDevice initialized.
+[2018.05.16-22.33.11:615][276]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.33.11:617][276]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.33.11
+[2018.05.16-22.33.11:617][276]LogWorld: Bringing up level for play took: 0.000974
+[2018.05.16-22.33.11:618][276]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 0.257
+[2018.05.16-22.33.38:402][301]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.33.38:415][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.33.38:416][301]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:33:38 AM)
+[2018.05.16-22.33.38:416][301]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.33.38:417][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001396s)
+[2018.05.16-22.33.38:418][301]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.33.38:418][301]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2018.05.16-22.33.38:418][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.002249s)
+[2018.05.16-22.33.38:441][301]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.33.38:471][301]LogInit: FAudioDevice initialized.
+[2018.05.16-22.33.38:503][301]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.33.38:505][301]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.33.38
+[2018.05.16-22.33.38:505][301]LogWorld: Bringing up level for play took: 0.001298
+[2018.05.16-22.33.38:506][301]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 -0.855
+[2018.05.16-22.33.44:104][795]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.33.44:116][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.33.44:116][795]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:33:44 AM)
+[2018.05.16-22.33.44:116][795]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.33.44:118][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001405s)
+[2018.05.16-22.33.44:118][795]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.33.44:118][795]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2018.05.16-22.33.44:118][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.002172s)
+[2018.05.16-22.33.44:140][795]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.33.44:169][795]LogInit: FAudioDevice initialized.
+[2018.05.16-22.33.44:202][795]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.33.44:204][795]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.33.44
+[2018.05.16-22.33.44:205][795]LogWorld: Bringing up level for play took: 0.001163
+[2018.05.16-22.33.44:206][795]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 0.845
+[2018.05.16-22.34.11:353][862]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.34.11:367][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.34.11:367][862]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:34:11 AM)
+[2018.05.16-22.34.11:367][862]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.34.11:369][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002000s)
+[2018.05.16-22.34.11:370][862]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.34.11:370][862]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2018.05.16-22.34.11:370][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.002831s)
+[2018.05.16-22.34.11:395][862]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.34.11:423][862]LogInit: FAudioDevice initialized.
+[2018.05.16-22.34.11:458][862]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.34.11:459][862]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.34.11
+[2018.05.16-22.34.11:459][862]LogWorld: Bringing up level for play took: 0.000762
+[2018.05.16-22.34.11:461][862]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 0.1
+[2018.05.16-22.34.12:852][ 25]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=127.10 Y=190.55 Z=0.00 Location: X=949.29 Y=-84.48 Z=206.01 Normal: X=-0.42 Y=-0.03 Z=-0.91 PenetrationDepth:0.002 Actor:Floor6 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2018.05.16-22.34.27:506][641]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.34.27:521][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.34.27:521][641]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:34:27 AM)
+[2018.05.16-22.34.27:521][641]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.34.27:522][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001288s)
+[2018.05.16-22.34.27:523][641]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.34.27:523][641]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2018.05.16-22.34.27:523][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.002260s)
+[2018.05.16-22.34.27:548][641]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.34.27:576][641]LogInit: FAudioDevice initialized.
+[2018.05.16-22.34.27:636][641]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.34.27:638][641]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.34.27
+[2018.05.16-22.34.27:638][641]LogWorld: Bringing up level for play took: 0.001423
+[2018.05.16-22.34.27:639][641]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 0.279
+[2018.05.16-22.34.34:620][476]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=18.47 Y=-21.68 Z=0.00 Location: X=8.53 Y=-11.41 Z=116.05 Normal: X=-0.09 Y=0.00 Z=-1.00 PenetrationDepth:0.001 Actor:Floor6 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2018.05.16-22.34.35:622][593]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=499.43 Y=332.52 Z=0.00 Location: X=8.91 Y=-8.43 Z=116.01 Normal: X=-0.09 Y=0.00 Z=-1.00 PenetrationDepth:0.000 Actor:Floor6 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2018.05.16-22.34.39:000][824]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.34.39:019][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.34.39:019][824]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:34:39 AM)
+[2018.05.16-22.34.39:019][824]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.34.39:021][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001724s)
+[2018.05.16-22.34.39:021][824]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.34.39:022][824]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2018.05.16-22.34.39:022][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.002654s)
+[2018.05.16-22.34.39:051][824]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.34.39:088][824]LogInit: FAudioDevice initialized.
+[2018.05.16-22.34.39:127][824]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.34.39:128][824]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.34.39
+[2018.05.16-22.34.39:129][824]LogWorld: Bringing up level for play took: 0.001532
+[2018.05.16-22.34.39:131][824]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 -0.23
+[2018.05.16-22.34.45:436][426]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-22.34.45:449][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-22.34.45:449][426]PIE: New page: PIE session: 1-1 (May 16, 2018, 8:34:45 AM)
+[2018.05.16-22.34.45:449][426]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-22.34.45:450][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001336s)
+[2018.05.16-22.34.45:450][426]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-22.34.45:450][426]LogPlayLevel: PIE: World Init took: (0.000529s)
+[2018.05.16-22.34.45:450][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.002066s)
+[2018.05.16-22.34.45:476][426]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-22.34.45:505][426]LogInit: FAudioDevice initialized.
+[2018.05.16-22.34.45:541][426]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-22.34.45:544][426]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-15.34.45
+[2018.05.16-22.34.45:544][426]LogWorld: Bringing up level for play took: 0.001418
+[2018.05.16-22.34.45:546][426]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 0.185
+[2018.05.16-22.37.26:689][453]Cmd: POLY SELECT MEMORY UNION
+[2018.05.16-22.41.47:645][984]Cmd: POLY SELECT MEMORY UNION
+[2018.05.16-22.41.56:878][ 51]LogActorFactory: Actor Factory created Cube
+[2018.05.16-22.41.58:105][187]LogActorFactory: Actor Factory created Cube
+[2018.05.16-22.43.47:007][438]LogSavePackage: Save=54.92ms
+[2018.05.16-22.43.47:007][438]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/1-1_Auto3D9F5EB3D47B49ED8AE155692861D2D95.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Game/map/stages/1/1-1_Auto3.umap'
+[2018.05.16-22.43.47:015][438]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Game/map/stages/1/1-1_Auto3.umap
+[2018.05.16-22.43.47:023][438]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/map/stages/1/1-1' took 0.148
+[2018.05.16-22.43.47:023][438]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.148
+[2018.05.16-22.47.56:900][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/stages/1/1-1" FILE="../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/stages/1/1-1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.16-22.47.56:989][480]LogSavePackage: Save=49.11ms
+[2018.05.16-22.47.56:989][480]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/1-1572A230F44951E61B1048E9AB1F41992.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/stages/1/1-1.umap'
+[2018.05.16-22.47.56:999][480]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/stages/1/1-1.umap
+[2018.05.16-22.47.57:039][480]LogFileHelpers: Saving map '1-1' took 21.915
+[2018.05.16-22.50.10:837][679]LogActorFactory: Actor Factory created Cube
+[2018.05.16-22.50.11:308][725]LogActorFactory: Actor Factory created Cube
+[2018.05.16-22.50.57:399][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.16-22.50.57:877][355]Cmd: EDIT COPY
+[2018.05.16-22.50.58:159][355]Cmd: EDIT PASTE
+[2018.05.16-22.51.02:336][690]Cmd: EDIT COPY
+[2018.05.16-22.51.02:585][704]Cmd: EDIT PASTE
+[2018.05.16-22.51.31:026][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.05.16-22.52.02:679][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/stages/1/1-1" FILE="../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/stages/1/1-1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.16-22.52.02:865][179]LogSavePackage: Save=76.43ms
+[2018.05.16-22.52.02:865][179]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/1-166AE452D4FD9D0141C03568582B44F48.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/stages/1/1-1.umap'
+[2018.05.16-22.52.02:871][179]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/stages/1/1-1.umap
+[2018.05.16-22.52.02:899][179]LogFileHelpers: Saving map '1-1' took 26.669
+[2018.05.16-23.22.40:964][158]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-23.22.43:045][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-23.22.43:637][158]PIE: New page: PIE session: 1-1 (May 16, 2018, 9:22:43 AM)
+[2018.05.16-23.22.43:701][158]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-23.22.45:448][158]LogPlayLevel: PIE: StaticDuplicateObject took: (1.746264s)
+[2018.05.16-23.22.46:849][158]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-23.22.47:190][158]LogPlayLevel: PIE: World Init took: (1.741898s)
+[2018.05.16-23.22.47:192][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (3.509413s)
+[2018.05.16-23.22.47:871][158]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-23.22.47:953][158]LogInit: FAudioDevice initialized.
+[2018.05.16-23.22.48:732][158]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-23.22.49:215][158]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 3) at 2018.05.16-16.22.49
+[2018.05.16-23.22.49:277][158]LogWorld: Bringing up level for play took: 0.291839
+[2018.05.16-23.22.50:723][158]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 7.352
+[2018.05.16-23.26.31:006][588]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=17.16 Y=-1.63 Z=0.00 Location: X=-40.12 Y=34.85 Z=116.07 Normal: X=-0.08 Y=0.00 Z=-1.00 PenetrationDepth:0.000 Actor:Floor6 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2018.05.16-23.26.39:661][278]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-23.26.39:675][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-23.26.39:675][278]PIE: New page: PIE session: 1-1 (May 16, 2018, 9:26:39 AM)
+[2018.05.16-23.26.39:676][278]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-23.26.39:677][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001879s)
+[2018.05.16-23.26.39:678][278]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-23.26.39:678][278]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2018.05.16-23.26.39:678][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.002830s)
+[2018.05.16-23.26.39:718][278]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-23.26.39:752][278]LogInit: FAudioDevice initialized.
+[2018.05.16-23.26.39:807][278]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-23.26.39:809][278]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-16.26.39
+[2018.05.16-23.26.39:810][278]LogWorld: Bringing up level for play took: 0.002237
+[2018.05.16-23.26.39:813][278]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 0.452
+[2018.05.16-23.26.55:100][770]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-23.26.55:121][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-23.26.55:121][770]PIE: New page: PIE session: 1-1 (May 16, 2018, 9:26:55 AM)
+[2018.05.16-23.26.55:121][770]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-23.26.55:123][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002337s)
+[2018.05.16-23.26.55:125][770]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-23.26.55:125][770]LogPlayLevel: PIE: World Init took: (0.001737s)
+[2018.05.16-23.26.55:125][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.004418s)
+[2018.05.16-23.26.55:152][770]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-23.26.55:186][770]LogInit: FAudioDevice initialized.
+[2018.05.16-23.26.55:349][770]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-23.26.55:351][770]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-16.26.55
+[2018.05.16-23.26.55:351][770]LogWorld: Bringing up level for play took: 0.001494
+[2018.05.16-23.26.55:353][770]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 -0.008
+[2018.05.16-23.28.18:911][ 91]LogSavePackage: Save=37.09ms
+[2018.05.16-23.28.18:911][ 91]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/1-1_Auto415CC6D5D4424097E6503EB9EFAC39E75.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Game/map/stages/1/1-1_Auto4.umap'
+[2018.05.16-23.28.18:932][ 91]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Game/map/stages/1/1-1_Auto4.umap
+[2018.05.16-23.28.18:937][ 91]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/map/stages/1/1-1' took 0.304
+[2018.05.16-23.28.18:937][ 91]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.304
+[2018.05.16-23.28.32:827][219]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-23.28.33:726][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-23.28.33:727][219]PIE: New page: PIE session: 1-1 (May 16, 2018, 9:28:33 AM)
+[2018.05.16-23.28.33:727][219]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-23.28.33:730][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002670s)
+[2018.05.16-23.28.33:730][219]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-23.28.33:730][219]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2018.05.16-23.28.33:731][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.003728s)
+[2018.05.16-23.28.33:758][219]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-23.28.34:083][219]LogInit: FAudioDevice initialized.
+[2018.05.16-23.28.34:396][219]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-23.28.34:398][219]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-16.28.34
+[2018.05.16-23.28.34:648][219]LogWorld: Bringing up level for play took: 0.250322
+[2018.05.16-23.28.34:693][219]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 1.332
+[2018.05.16-23.28.49:295][729]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-23.28.49:317][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-23.28.49:317][729]PIE: New page: PIE session: 1-1 (May 16, 2018, 9:28:49 AM)
+[2018.05.16-23.28.49:317][729]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-23.28.49:319][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002079s)
+[2018.05.16-23.28.49:320][729]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-23.28.49:320][729]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2018.05.16-23.28.49:320][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.003243s)
+[2018.05.16-23.28.49:350][729]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-23.28.49:488][729]LogInit: FAudioDevice initialized.
+[2018.05.16-23.28.49:522][729]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-23.28.49:524][729]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-16.28.49
+[2018.05.16-23.28.49:524][729]LogWorld: Bringing up level for play took: 0.001017
+[2018.05.16-23.28.49:526][729]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 0.165
+[2018.05.16-23.29.09:754][917]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-23.29.09:773][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-23.29.09:773][917]PIE: New page: PIE session: 1-1 (May 16, 2018, 9:29:09 AM)
+[2018.05.16-23.29.09:773][917]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-23.29.09:775][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002468s)
+[2018.05.16-23.29.09:775][917]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-23.29.09:776][917]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2018.05.16-23.29.09:776][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.003658s)
+[2018.05.16-23.29.09:808][917]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-23.29.09:842][917]LogInit: FAudioDevice initialized.
+[2018.05.16-23.29.09:898][917]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-23.29.09:900][917]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-16.29.09
+[2018.05.16-23.29.09:901][917]LogWorld: Bringing up level for play took: 0.001477
+[2018.05.16-23.29.09:903][917]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 0.542
+[2018.05.16-23.31.47:995][955]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-23.31.48:009][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-23.31.48:009][955]PIE: New page: PIE session: 1-1 (May 16, 2018, 9:31:48 AM)
+[2018.05.16-23.31.48:010][955]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-23.31.48:012][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001842s)
+[2018.05.16-23.31.48:012][955]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-23.31.48:013][955]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2018.05.16-23.31.48:013][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.003303s)
+[2018.05.16-23.31.48:042][955]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-23.31.48:230][955]LogInit: FAudioDevice initialized.
+[2018.05.16-23.31.48:267][955]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-23.31.48:269][955]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-16.31.48
+[2018.05.16-23.31.48:269][955]LogWorld: Bringing up level for play took: 0.001628
+[2018.05.16-23.31.48:494][955]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 1.133
+[2018.05.16-23.32.05:489][652]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-23.32.11:036][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-23.32.11:036][652]PIE: New page: PIE session: 1-1 (May 16, 2018, 9:32:11 AM)
+[2018.05.16-23.32.11:036][652]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.16-23.32.11:038][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001628s)
+[2018.05.16-23.32.11:038][652]LogAIModule: Creating AISystem for world 1-1
+[2018.05.16-23.32.11:039][652]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2018.05.16-23.32.11:039][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.002813s)
+[2018.05.16-23.32.11:070][652]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.16-23.32.11:109][652]LogInit: FAudioDevice initialized.
+[2018.05.16-23.32.11:430][652]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-23.32.11:432][652]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 3) at 2018.05.16-16.32.11
+[2018.05.16-23.32.11:432][652]LogWorld: Bringing up level for play took: 0.001122
+[2018.05.16-23.32.11:435][652]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 0.074
+[2018.05.17-00.20.50:059][673]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2018.05.17-00.20.52:593][927]Cmd: DELETE
+[2018.05.17-00.20.52:593][927]Cmd: ACTOR DELETE
+[2018.05.17-00.20.53:744][927]LogEditorActor: Deleted Actor: TriggerBox
+[2018.05.17-00.20.54:051][927]LogEditorActor: Deleted 1 Actors (0.515 secs)
+[2018.05.17-00.21.01:655][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.17-00.21.07:456][197]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2018.05.17-00.21.10:979][568]Cmd: DELETE
+[2018.05.17-00.21.10:979][568]Cmd: ACTOR DELETE
+[2018.05.17-00.21.10:980][568]LogEditorActor: Deleted Actor: TriggerBox
+[2018.05.17-00.21.10:995][568]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2018.05.17-00.22.15:995][331]LogSavePackage: Save=75.25ms
+[2018.05.17-00.22.15:995][331]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/1-1_Auto59AF4F1004283E9F1FDBD969C61A5A5DD.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Game/map/stages/1/1-1_Auto5.umap'
+[2018.05.17-00.22.15:998][331]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Game/map/stages/1/1-1_Auto5.umap
+[2018.05.17-00.22.16:005][331]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/map/stages/1/1-1' took 0.532
+[2018.05.17-00.22.16:005][331]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.532
+[2018.05.17-00.22.16:023][331]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/badzone] ([1] browsable assets)...
+[2018.05.17-00.22.16:037][331]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/badzone]
+[2018.05.17-00.22.19:150][331]LogSavePackage: Save=3110.15ms
+[2018.05.17-00.22.19:150][331]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/badzone_Auto5610093F34B7347C806C0E784FDEEDAF0.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Game/Blueprint/badzone_Auto5.uasset'
+[2018.05.17-00.22.19:152][331]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Game/Blueprint/badzone_Auto5.uasset
+[2018.05.17-00.22.19:152][331]LogFileHelpers: Auto-saving content packages took 3.144
+[2018.05.17-00.22.38:409][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/badzone" FILE="../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/Blueprint/badzone.uasset" SILENT=true
+[2018.05.17-00.22.38:581][282]LogSavePackage: Save=169.80ms
+[2018.05.17-00.22.38:581][282]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/badzoneAAAD808D40609C899648F79D64D1CE22.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/Blueprint/badzone.uasset'
+[2018.05.17-00.22.38:588][282]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/Blueprint/badzone.uasset
+[2018.05.17-00.25.42:083][333]Cmd: POLY SELECT MEMORY UNION
+[2018.05.17-00.26.19:368][297]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.05.17-00.26.19:879][332]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.05.17-00.26.26:685][ 85]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.05.17-00.26.30:673][552]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.05.17-00.26.37:854][359]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.05.17-00.26.44:556][ 62]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2018.05.17-00.28.06:100][168]BlueprintLog: New page: Compile 1-1
+[2018.05.17-00.28.12:467][700]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.17-00.28.12:538][700]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/stages/1/1-1.1-1:PersistentLevel' has LevelScriptBlueprint '/Game/map/stages/1/1-1.1-1:PersistentLevel.1-1' with GeneratedClass '/Game/map/stages/1/1-1.1-1_C' with ClassGeneratedBy '/Game/map/stages/1/1-1.1-1:PersistentLevel.1-1'
+[2018.05.17-00.28.12:538][700]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.17-00.28.12:695][700]LogPlayLevel: [PlayLevel] Compiling badzone before play...
+[2018.05.17-00.28.12:786][700]LogPlayLevel: PlayLevel: Blueprint regeneration took 246 ms (1 blueprints)
+[2018.05.17-00.28.12:786][700]PIE: New page: PIE session: 1-1 (May 16, 2018, 10:28:12 AM)
+[2018.05.17-00.28.12:786][700]LogPlayLevel: Creating play world package: /Game/map/stages/1/UEDPIE_0_1-1
+[2018.05.17-00.28.12:788][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002084s)
+[2018.05.17-00.28.12:789][700]LogAIModule: Creating AISystem for world 1-1
+[2018.05.17-00.28.12:789][700]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2018.05.17-00.28.12:789][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/stages/1/1-1.1-1 to /Game/map/stages/1/UEDPIE_0_1-1.1-1 (0.003062s)
+[2018.05.17-00.28.12:815][700]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.17-00.28.12:849][700]LogInit: FAudioDevice initialized.
+[2018.05.17-00.28.12:994][700]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.17-00.28.12:997][700]LogWorld: Bringing World /Game/map/stages/1/UEDPIE_0_1-1.1-1 up for play (max tick rate 0) at 2018.05.16-17.28.12
+[2018.05.17-00.28.12:997][700]LogWorld: Bringing up level for play took: 0.002187
+[2018.05.17-00.28.13:018][700]PIE: Play in editor start time for /Game/map/stages/1/UEDPIE_0_1-1 -0.343
+[2018.05.17-00.28.13:088][700]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/stages/1/1-1.1-1:PersistentLevel' has LevelScriptBlueprint '/Game/map/stages/1/1-1.1-1:PersistentLevel.1-1' with GeneratedClass '/Game/map/stages/1/1-1.1-1_C' with ClassGeneratedBy '/Game/map/stages/1/1-1.1-1:PersistentLevel.1-1'
+[2018.05.17-00.28.19:132][199]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/stages/1/1-1.1-1:PersistentLevel' has LevelScriptBlueprint '/Game/map/stages/1/1-1.1-1:PersistentLevel.1-1' with GeneratedClass '/Game/map/stages/1/1-1.1-1_C' with ClassGeneratedBy '/Game/map/stages/1/1-1.1-1:PersistentLevel.1-1'
+[2018.05.17-00.28.19:357][199]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/stages/1/1-1.1-1:PersistentLevel' has LevelScriptBlueprint '/Game/map/stages/1/1-1.1-1:PersistentLevel.1-1' with GeneratedClass '/Game/map/stages/1/1-1.1-1_C' with ClassGeneratedBy '/Game/map/stages/1/1-1.1-1:PersistentLevel.1-1'
+[2018.05.17-00.30.22:191][192]BlueprintLog: New page: Compile 1-1
+[2018.05.17-00.30.36:900][459]BlueprintLog: New page: Compile 1-1
+[2018.05.17-00.32.30:073][103]LogSavePackage: Save=3836.30ms
+[2018.05.17-00.32.30:073][103]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/1-1_Auto676EBD1E74159DC144A3DE0859AE9CDA6.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Game/map/stages/1/1-1_Auto6.umap'
+[2018.05.17-00.32.30:111][103]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Game/map/stages/1/1-1_Auto6.umap
+[2018.05.17-00.32.30:135][103]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/map/stages/1/1-1' took 3.929
+[2018.05.17-00.32.30:135][103]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.929
+[2018.05.17-00.32.30:144][103]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/badzone] ([1] browsable assets)...
+[2018.05.17-00.32.30:144][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/badzone]
+[2018.05.17-00.32.30:274][103]LogSavePackage: Save=89.99ms
+[2018.05.17-00.32.30:274][103]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/badzone_Auto6BC7E7DE54F39BD8862FB70A687B34FB6.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Game/Blueprint/badzone_Auto6.uasset'
+[2018.05.17-00.32.30:276][103]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Autosaves/Game/Blueprint/badzone_Auto6.uasset
+[2018.05.17-00.32.30:276][103]LogFileHelpers: Auto-saving content packages took 0.133
+[2018.05.17-01.06.49:384][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/stages/1/1-1" FILE="../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/stages/1/1-1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.17-01.06.49:960][444]LogSavePackage: Save=523.08ms
+[2018.05.17-01.06.49:960][444]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/1-182522CEB4C9191F3766EC7BFDEC62BBA.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/stages/1/1-1.umap'
+[2018.05.17-01.06.49:968][444]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/map/stages/1/1-1.umap
+[2018.05.17-01.06.50:024][444]LogFileHelpers: Saving map '1-1' took 26.959
+[2018.05.17-01.06.50:027][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/badzone" FILE="../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/Blueprint/badzone.uasset" SILENT=true
+[2018.05.17-01.06.50:147][444]LogSavePackage: Save=20.28ms
+[2018.05.17-01.06.50:147][444]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/badzoneB08BB8D24272796C2E65C5804A651D07.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/Blueprint/badzone.uasset'
+[2018.05.17-01.06.50:180][444]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/Blueprint/badzone.uasset
+[2018.05.17-12.01.25:379][ 58]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.17-12.01.44:277][ 59]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Jumpingtruck
+[2018.05.17-12.01.44:277][ 59]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.17-12.01.44:277][ 59]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.05.17-12.01.44:277][ 59]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.17-12.01.44:277][ 59]LogTemp: BranchPath = DESKTOP-KAES2OF/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-KAES2OF/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.05.17-12.01.44:277][ 59]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\gamer\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.17-12.10.38:417][ 89]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.17-12.10.54:039][ 90]Cmd: QUIT_EDITOR
+[2018.05.17-12.10.56:687][ 90]LogExit: Preparing to exit.
+[2018.05.17-12.11.00:697][ 90]LogDirectoryWatcher: A directory notification for 'C:/Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/' was aborted.
+[2018.05.17-12.11.03:837][ 90]LogExit: Editor shut down
+[2018.05.17-12.11.04:392][ 90]LogExit: Transaction tracking system shut down
+[2018.05.17-12.11.07:642][ 90]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.05.17-12.11.07:642][ 90]LogDirectoryWatcher: A directory notification for '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/' was aborted.
+[2018.05.17-12.11.07:642][ 90]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.05.17-12.11.07:642][ 90]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.05.17-12.11.07:642][ 90]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.05.17-12.11.15:539][ 90]LogExit: Object subsystem successfully closed.
+[2018.05.17-12.11.16:901][ 90]LogD3D11RHI: Shutdown
+[2018.05.17-12.11.16:917][ 90]LogD3D11RHI: CleanupD3DDevice
+[2018.05.17-12.11.17:366][ 90]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.05.17-12.11.19:813][ 90]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (554)
+[2018.05.17-12.11.19:814][ 90]LogModuleManager: Shutting down and abandoning module LauncherServices (552)
+[2018.05.17-12.11.19:814][ 90]LogModuleManager: Shutting down and abandoning module MaterialEditor (550)
+[2018.05.17-12.11.19:844][ 90]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (548)
+[2018.05.17-12.11.19:859][ 90]LogModuleManager: Shutting down and abandoning module NewLevelDialog (546)
+[2018.05.17-12.11.19:860][ 90]LogModuleManager: Shutting down and abandoning module BlueprintGraph (544)
+[2018.05.17-12.11.19:860][ 90]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (542)
+[2018.05.17-12.11.19:860][ 90]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (540)
+[2018.05.17-12.11.19:860][ 90]LogModuleManager: Shutting down and abandoning module SceneOutliner (538)
+[2018.05.17-12.11.19:888][ 90]LogModuleManager: Shutting down and abandoning module AddContentDialog (536)
+[2018.05.17-12.11.19:933][ 90]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.05.17-12.11.20:143][ 90]LogModuleManager: Shutting down and abandoning module WidgetCarousel (535)
+[2018.05.17-12.11.20:143][ 90]LogModuleManager: Shutting down and abandoning module EditorWidgets (532)
+[2018.05.17-12.11.20:143][ 90]LogModuleManager: Shutting down and abandoning module CollectionManager (530)
+[2018.05.17-12.11.20:176][ 90]LogDirectoryWatcher: A directory notification for 'C:/Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/Collections/' was aborted.
+[2018.05.17-12.11.20:191][ 90]LogDirectoryWatcher: A directory notification for 'C:/Users/gamer/Documents/Unreal Projects/Jumpingtruck/Content/Developers/gamer/Collections/' was aborted.
+[2018.05.17-12.11.20:207][ 90]LogDirectoryWatcher: A directory notification for 'C:/Users/gamer/Documents/Unreal Projects/Jumpingtruck/Saved/Collections/' was aborted.
+[2018.05.17-12.11.20:217][ 90]LogModuleManager: Shutting down and abandoning module StatsViewer (528)
+[2018.05.17-12.11.20:234][ 90]LogModuleManager: Shutting down and abandoning module FoliageEdit (526)
+[2018.05.17-12.11.20:234][ 90]LogModuleManager: Shutting down and abandoning module LandscapeEditor (524)
+[2018.05.17-12.11.20:276][ 90]LogModuleManager: Shutting down and abandoning module MeshPaintMode (522)
+[2018.05.17-12.11.20:276][ 90]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (520)
+[2018.05.17-12.11.20:276][ 90]LogModuleManager: Shutting down and abandoning module ActorPickerMode (518)
+[2018.05.17-12.11.20:276][ 90]LogModuleManager: Shutting down and abandoning module GeometryMode (516)
+[2018.05.17-12.11.20:277][ 90]LogModuleManager: Shutting down and abandoning module TextureAlignMode (514)
+[2018.05.17-12.11.20:277][ 90]LogModuleManager: Shutting down and abandoning module BspMode (512)
+[2018.05.17-12.11.20:293][ 90]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (510)
+[2018.05.17-12.11.20:306][ 90]LogModuleManager: Shutting down and abandoning module HardwareSurvey (508)
+[2018.05.17-12.11.20:319][ 90]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (506)
+[2018.05.17-12.11.20:357][ 90]LogModuleManager: Shutting down and abandoning module AutomationWorker (504)
+[2018.05.17-12.11.20:365][ 90]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (502)
+[2018.05.17-12.11.20:376][ 90]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (500)
+[2018.05.17-12.11.20:430][ 90]LogModuleManager: Shutting down and abandoning module PlacementMode (499)
+[2018.05.17-12.11.20:431][ 90]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (496)
+[2018.05.17-12.11.20:431][ 90]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (494)
+[2018.05.17-12.11.20:431][ 90]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (492)
+[2018.05.17-12.11.20:431][ 90]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (490)
+[2018.05.17-12.11.20:431][ 90]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (488)
+[2018.05.17-12.11.20:439][ 90]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (486)
+[2018.05.17-12.11.20:439][ 90]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (484)
+[2018.05.17-12.11.20:439][ 90]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (482)
+[2018.05.17-12.11.20:439][ 90]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (480)
+[2018.05.17-12.11.20:439][ 90]LogModuleManager: Shutting down and abandoning module CharacterAI (478)
+[2018.05.17-12.11.20:462][ 90]LogModuleManager: Shutting down and abandoning module AudioCapture (476)
+[2018.05.17-12.11.20:495][ 90]LogModuleManager: Shutting down and abandoning module SequenceRecorder (475)
+[2018.05.17-12.11.20:504][ 90]LogModuleManager: Shutting down and abandoning module SmartSnapping (472)
+[2018.05.17-12.11.20:504][ 90]LogModuleManager: Shutting down and abandoning module SessionServices (470)
+[2018.05.17-12.11.20:504][ 90]LogModuleManager: Shutting down and abandoning module ViewportSnapping (468)
+[2018.05.17-12.11.20:504][ 90]LogModuleManager: Shutting down and abandoning module ViewportInteraction (466)
+[2018.05.17-12.11.20:504][ 90]LogModuleManager: Shutting down and abandoning module ClothPainter (464)
+[2018.05.17-12.11.20:652][ 90]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (463)
+[2018.05.17-12.11.20:662][ 90]LogModuleManager: Shutting down and abandoning module LogVisualizer (460)
+[2018.05.17-12.11.20:694][ 90]LogModuleManager: Shutting down and abandoning module IntroTutorials (458)
+[2018.05.17-12.11.20:838][ 90]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (457)
+[2018.05.17-12.11.20:966][ 90]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (454)
+[2018.05.17-12.11.20:966][ 90]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (452)
+[2018.05.17-12.11.20:966][ 90]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (450)
+[2018.05.17-12.11.20:966][ 90]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (449)
+[2018.05.17-12.11.21:935][ 90]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (446)
+[2018.05.17-12.11.21:966][ 90]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (444)
+[2018.05.17-12.11.21:966][ 90]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (442)
+[2018.05.17-12.11.21:966][ 90]LogModuleManager: Shutting down and abandoning module InputBindingEditor (440)
+[2018.05.17-12.11.21:988][ 90]LogModuleManager: Shutting down and abandoning module MergeActors (438)
+[2018.05.17-12.11.22:001][ 90]LogModuleManager: Shutting down and abandoning module SizeMap (436)
+[2018.05.17-12.11.22:001][ 90]LogModuleManager: Shutting down and abandoning module TreeMap (434)
+[2018.05.17-12.11.22:032][ 90]LogModuleManager: Shutting down and abandoning module ReferenceViewer (432)
+[2018.05.17-12.11.22:032][ 90]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (430)
+[2018.05.17-12.11.22:093][ 90]LogModuleManager: Shutting down and abandoning module LocalizationService (429)
+[2018.05.17-12.11.22:108][ 90]LogModuleManager: Shutting down and abandoning module HardwareTargeting (426)
+[2018.05.17-12.11.22:108][ 90]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (424)
+[2018.05.17-12.11.22:119][ 90]LogModuleManager: Shutting down and abandoning module UndoHistory (422)
+[2018.05.17-12.11.22:130][ 90]LogModuleManager: Shutting down and abandoning module XmlParser (420)
+[2018.05.17-12.11.22:144][ 90]LogModuleManager: Shutting down and abandoning module Blutility (418)
+[2018.05.17-12.11.22:160][ 90]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (416)
+[2018.05.17-12.11.22:160][ 90]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (415)
+[2018.05.17-12.11.22:176][ 90]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (412)
+[2018.05.17-12.11.22:176][ 90]LogModuleManager: Shutting down and abandoning module SettingsEditor (410)
+[2018.05.17-12.11.22:176][ 90]LogModuleManager: Shutting down and abandoning module ProjectLauncher (408)
+[2018.05.17-12.11.22:201][ 90]LogModuleManager: Shutting down and abandoning module SessionFrontend (406)
+[2018.05.17-12.11.22:232][ 90]LogModuleManager: Shutting down and abandoning module ProfilerClient (404)
+[2018.05.17-12.11.22:240][ 90]LogModuleManager: Shutting down and abandoning module DeviceManager (402)
+[2018.05.17-12.11.22:294][ 90]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (401)
+[2018.05.17-12.11.22:360][ 90]LogModuleManager: Shutting down and abandoning module AutomationController (398)
+[2018.05.17-12.11.22:484][ 90]LogModuleManager: Shutting down and abandoning module AutomationWindow (396)
+[2018.05.17-12.11.22:541][ 90]LogModuleManager: Shutting down and abandoning module Layers (394)
+[2018.05.17-12.11.22:571][ 90]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (392)
+[2018.05.17-12.11.22:571][ 90]LogModuleManager: Shutting down and abandoning module DetailCustomizations (390)
+[2018.05.17-12.11.22:571][ 90]LogModuleManager: Shutting down and abandoning module PackagesDialog (388)
+[2018.05.17-12.11.22:581][ 90]LogModuleManager: Shutting down and abandoning module Persona (386)
+[2018.05.17-12.11.22:649][ 90]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (385)
+[2018.05.17-12.11.22:649][ 90]LogModuleManager: Shutting down and abandoning module AnimGraph (383)
+[2018.05.17-12.11.22:649][ 90]LogModuleManager: Shutting down and abandoning module Kismet (380)
+[2018.05.17-12.11.22:749][ 90]LogModuleManager: Shutting down and abandoning module ClassViewer (378)
+[2018.05.17-12.11.22:766][ 90]LogModuleManager: Shutting down and abandoning module Toolbox (376)
+[2018.05.17-12.11.22:773][ 90]LogModuleManager: Shutting down and abandoning module ModuleUI (374)
+[2018.05.17-12.11.22:780][ 90]LogModuleManager: Shutting down and abandoning module MovieSceneTools (372)
+[2018.05.17-12.11.22:854][ 90]LogModuleManager: Shutting down and abandoning module OutputLog (370)
+[2018.05.17-12.11.22:872][ 90]LogModuleManager: Shutting down and abandoning module GammaUI (368)
+[2018.05.17-12.11.22:904][ 90]LogModuleManager: Shutting down and abandoning module Documentation (366)
+[2018.05.17-12.11.22:905][ 90]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (364)
+[2018.05.17-12.11.22:905][ 90]LogModuleManager: Shutting down and abandoning module MovieScene (362)
+[2018.05.17-12.11.22:905][ 90]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (360)
+[2018.05.17-12.11.22:911][ 90]LogModuleManager: Shutting down and abandoning module LauncherPlatform (358)
+[2018.05.17-12.11.22:911][ 90]LogModuleManager: Shutting down and abandoning module AnalyticsET (356)
+[2018.05.17-12.11.22:911][ 90]LogModuleManager: Shutting down and abandoning module PortalServices (354)
+[2018.05.17-12.11.22:911][ 90]LogModuleManager: Shutting down and abandoning module PortalRpc (352)
+[2018.05.17-12.11.22:911][ 90]LogModuleManager: Shutting down and abandoning module MessagingRpc (350)
+[2018.05.17-12.11.22:911][ 90]LogModuleManager: Shutting down and abandoning module AIModule (348)
+[2018.05.17-12.11.22:932][ 90]LogModuleManager: Shutting down and abandoning module GameplayDebugger (347)
+[2018.05.17-12.11.22:939][ 90]LogModuleManager: Shutting down and abandoning module AITestSuite (345)
+[2018.05.17-12.11.22:952][ 90]LogModuleManager: Shutting down and abandoning module DesktopPlatform (342)
+[2018.05.17-12.11.22:961][ 90]LogModuleManager: Shutting down and abandoning module ProfilerService (340)
+[2018.05.17-12.11.23:218][ 90]LogModuleManager: Shutting down and abandoning module TaskGraph (338)
+[2018.05.17-12.11.23:231][ 90]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (336)
+[2018.05.17-12.11.23:231][ 90]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (334)
+[2018.05.17-12.11.23:235][ 90]LogModuleManager: Shutting down and abandoning module Ansel (332)
+[2018.05.17-12.11.23:235][ 90]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (330)
+[2018.05.17-12.11.23:235][ 90]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (328)
+[2018.05.17-12.11.23:235][ 90]LogModuleManager: Shutting down and abandoning module CableComponent (326)
+[2018.05.17-12.11.23:235][ 90]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (324)
+[2018.05.17-12.11.23:235][ 90]LogModuleManager: Shutting down and abandoning module AndroidPermission (322)
+[2018.05.17-12.11.23:235][ 90]LogModuleManager: Shutting down and abandoning module ActorSequence (318)
+[2018.05.17-12.11.23:235][ 90]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (316)
+[2018.05.17-12.11.23:255][ 90]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (314)
+[2018.05.17-12.11.23:262][ 90]LogModuleManager: Shutting down and abandoning module MediaCompositing (312)
+[2018.05.17-12.11.23:262][ 90]LogModuleManager: Shutting down and abandoning module HTML5Networking (310)
+[2018.05.17-12.11.23:262][ 90]LogModuleManager: Shutting down and abandoning module AlembicImporter (308)
+[2018.05.17-12.11.23:267][ 90]LogModuleManager: Shutting down and abandoning module AlembicLibrary (307)
+[2018.05.17-12.11.23:267][ 90]LogModuleManager: Shutting down and abandoning module GeometryCache (306)
+[2018.05.17-12.11.23:283][ 90]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (305)
+[2018.05.17-12.11.23:283][ 90]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (300)
+[2018.05.17-12.11.23:283][ 90]LogModuleManager: Shutting down and abandoning module PluginBrowser (298)
+[2018.05.17-12.11.23:309][ 90]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (296)
+[2018.05.17-12.11.23:330][ 90]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (294)
+[2018.05.17-12.11.23:330][ 90]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (292)
+[2018.05.17-12.11.23:330][ 90]LogModuleManager: Shutting down and abandoning module UObjectPlugin (290)
+[2018.05.17-12.11.23:330][ 90]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (288)
+[2018.05.17-12.11.23:348][ 90]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (286)
+[2018.05.17-12.11.23:498][ 90]LogModuleManager: Shutting down and abandoning module GitSourceControl (284)
+[2018.05.17-12.11.23:550][ 90]LogModuleManager: Shutting down and abandoning module SourceControl (283)
+[2018.05.17-12.11.23:563][ 90]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (280)
+[2018.05.17-12.11.23:563][ 90]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (278)
+[2018.05.17-12.11.23:563][ 90]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (276)
+[2018.05.17-12.11.23:563][ 90]LogModuleManager: Shutting down and abandoning module Paper2DEditor (274)
+[2018.05.17-12.11.23:585][ 90]LogModuleManager: Shutting down and abandoning module MeshPaint (273)
+[2018.05.17-12.11.23:602][ 90]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2018.05.17-12.11.23:676][ 90]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2018.05.17-12.11.23:695][ 90]LogModuleManager: Shutting down and abandoning module MainFrame (268)
+[2018.05.17-12.11.23:706][ 90]LogModuleManager: Shutting down and abandoning module HotReload (267)
+[2018.05.17-12.11.23:750][ 90]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (262)
+[2018.05.17-12.11.23:750][ 90]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (260)
+[2018.05.17-12.11.23:768][ 90]LogModuleManager: Shutting down and abandoning module PhysXVehicles (258)
+[2018.05.17-12.11.23:768][ 90]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (256)
+[2018.05.17-12.11.23:768][ 90]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (254)
+[2018.05.17-12.11.23:768][ 90]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (252)
+[2018.05.17-12.11.23:780][ 90]LogModuleManager: Shutting down and abandoning module UdpMessaging (250)
+[2018.05.17-12.11.23:881][ 90]LogModuleManager: Shutting down and abandoning module TcpMessaging (248)
+[2018.05.17-12.11.23:981][ 90]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (246)
+[2018.05.17-12.11.23:998][ 90]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (244)
+[2018.05.17-12.11.24:001][ 90]LogModuleManager: Shutting down and abandoning module FacialAnimation (242)
+[2018.05.17-12.11.24:001][ 90]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (240)
+[2018.05.17-12.11.24:020][ 90]LogModuleManager: Shutting down and abandoning module GraphEditor (239)
+[2018.05.17-12.11.24:047][ 90]LogModuleManager: Shutting down and abandoning module ContentBrowser (237)
+[2018.05.17-12.11.24:067][ 90]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (234)
+[2018.05.17-12.11.24:067][ 90]LogModuleManager: Shutting down and abandoning module Paper2D (232)
+[2018.05.17-12.11.24:092][ 90]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (230)
+[2018.05.17-12.11.24:100][ 90]LogModuleManager: Shutting down and abandoning module WmfMedia (228)
+[2018.05.17-12.11.24:116][ 90]LogModuleManager: Shutting down and abandoning module ImgMedia (226)
+[2018.05.17-12.11.24:116][ 90]LogModuleManager: Shutting down and abandoning module PacketHandler (224)
+[2018.05.17-12.11.24:116][ 90]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (222)
+[2018.05.17-12.11.24:116][ 90]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (220)
+[2018.05.17-12.11.24:173][ 90]LogModuleManager: Shutting down and abandoning module MediaAssets (218)
+[2018.05.17-12.11.24:173][ 90]LogModuleManager: Shutting down and abandoning module Media (217)
+[2018.05.17-12.11.24:179][ 90]LogModuleManager: Shutting down and abandoning module Overlay (214)
+[2018.05.17-12.11.24:179][ 90]LogModuleManager: Shutting down and abandoning module OverlayEditor (213)
+[2018.05.17-12.11.24:179][ 90]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2018.05.17-12.11.24:214][ 90]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2018.05.17-12.11.24:221][ 90]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2018.05.17-12.11.24:221][ 90]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2018.05.17-12.11.24:279][ 90]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2018.05.17-12.11.24:298][ 90]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2018.05.17-12.11.24:328][ 90]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2018.05.17-12.11.24:344][ 90]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2018.05.17-12.11.24:349][ 90]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2018.05.17-12.11.24:391][ 90]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2018.05.17-12.11.24:445][ 90]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2018.05.17-12.11.24:453][ 90]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2018.05.17-12.11.24:511][ 90]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2018.05.17-12.11.24:511][ 90]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2018.05.17-12.11.24:712][ 90]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2018.05.17-12.11.24:712][ 90]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2018.05.17-12.11.24:733][ 90]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2018.05.17-12.11.24:733][ 90]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2018.05.17-12.11.24:733][ 90]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2018.05.17-12.11.24:733][ 90]LogModuleManager: Shutting down and abandoning module Core (168)
+[2018.05.17-12.11.24:733][ 90]LogModuleManager: Shutting down and abandoning module LevelSequence (164)
+[2018.05.17-12.11.24:745][ 90]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (162)
+[2018.05.17-12.11.24:774][ 90]LogModuleManager: Shutting down and abandoning module KismetCompiler (160)
+[2018.05.17-12.11.24:775][ 90]LogModuleManager: Shutting down and abandoning module MeshUtilities (158)
+[2018.05.17-12.11.24:804][ 90]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (157)
+[2018.05.17-12.11.24:821][ 90]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (156)
+[2018.05.17-12.11.24:821][ 90]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (155)
+[2018.05.17-12.11.24:837][ 90]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (153)
+[2018.05.17-12.11.24:840][ 90]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (151)
+[2018.05.17-12.11.24:846][ 90]LogModuleManager: Shutting down and abandoning module MaterialBaking (147)
+[2018.05.17-12.11.24:860][ 90]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.05.17-12.11.24:922][ 90]LogDerivedDataCache: Shutdown
+[2018.05.17-12.11.24:922][ 90]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.05.17-12.11.24:922][ 90]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.05.17-12.11.24:931][ 90]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.05.17-12.11.24:939][ 90]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.05.17-12.11.24:960][ 90]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.05.17-12.11.24:972][ 90]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.05.17-12.11.24:990][ 90]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.05.17-12.11.24:990][ 90]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.05.17-12.11.24:990][ 90]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.05.17-12.11.25:006][ 90]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.05.17-12.11.25:085][ 90]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.05.17-12.11.25:085][ 90]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.05.17-12.11.25:085][ 90]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.05.17-12.11.25:085][ 90]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.05.17-12.11.25:085][ 90]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.05.17-12.11.25:085][ 90]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.05.17-12.11.25:100][ 90]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.05.17-12.11.25:100][ 90]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.05.17-12.11.25:113][ 90]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.05.17-12.11.25:113][ 90]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.05.17-12.11.25:113][ 90]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.05.17-12.11.25:113][ 90]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.05.17-12.11.25:113][ 90]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.05.17-12.11.25:113][ 90]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.05.17-12.11.25:113][ 90]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (95)
+[2018.05.17-12.11.25:114][ 90]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (93)
+[2018.05.17-12.11.25:114][ 90]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (91)
+[2018.05.17-12.11.25:114][ 90]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (89)
+[2018.05.17-12.11.25:114][ 90]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (87)
+[2018.05.17-12.11.25:114][ 90]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (85)
+[2018.05.17-12.11.25:114][ 90]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (83)
+[2018.05.17-12.11.25:114][ 90]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (81)
+[2018.05.17-12.11.25:114][ 90]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.05.17-12.11.25:114][ 90]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.05.17-12.11.25:114][ 90]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.05.17-12.11.25:114][ 90]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.05.17-12.11.25:114][ 90]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.05.17-12.11.25:114][ 90]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.05.17-12.11.25:114][ 90]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.05.17-12.11.25:126][ 90]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.05.17-12.11.25:136][ 90]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.05.17-12.11.25:136][ 90]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.05.17-12.11.25:136][ 90]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.05.17-12.11.25:162][ 90]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2018.05.17-12.11.25:162][ 90]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.05.17-12.11.25:162][ 90]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.05.17-12.11.25:162][ 90]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.05.17-12.11.25:162][ 90]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.05.17-12.11.25:162][ 90]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.05.17-12.11.25:231][ 90]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.05.17-12.11.25:261][ 90]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.05.17-12.11.25:261][ 90]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.05.17-12.11.25:272][ 90]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A7B1A7D-43A6-25BF-83EB-5E9FFDAC6702%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=1f98e90a4fba3ceba9013faa1904407c%7C68993fe81f474bdbaa09a47c88dbaff4%7C16920d92-adef-4c04-8ccc-97ae1c71f929&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.05.17-12.11.25:357][ 90]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.05.17-12.11.25:410][ 90]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.05.17-12.11.25:550][ 90]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.05.17-12.11.25:579][ 90]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.05.17-12.11.25:599][ 90]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.05.17-12.11.25:668][ 90]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.05.17-12.11.25:668][ 90]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.05.17-12.11.25:682][ 90]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.05.17-12.11.25:776][ 90]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.05.17-12.11.25:806][ 90]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.05.17-12.11.25:806][ 90]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.05.17-12.11.25:817][ 90]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.05.17-12.11.25:817][ 90]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.05.17-12.11.25:829][ 90]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.05.17-12.11.25:829][ 90]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.05.17-12.11.25:842][ 90]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.05.17-12.11.25:859][ 90]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.05.17-12.11.25:873][ 90]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.05.17-12.11.25:873][ 90]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.05.17-12.11.25:946][ 90]LogExit: Exiting.
+[2018.05.17-12.11.26:221][ 90]Log file closed, 05/17/18 05:11:26
