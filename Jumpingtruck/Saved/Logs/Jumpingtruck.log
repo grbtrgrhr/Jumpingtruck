@@ -625,3 +625,57 @@ ERROR: One or more of the modules specified using the '-module' argument could n
 [2018.05.28-17.35.13:235][994]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.039
 [2018.05.28-17.45.13:929][796]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.016
 [2018.05.28-17.55.14:368][597]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.016
+[2018.05.28-18.02.39:581][457]MapCheck: New page: Map Check
+[2018.05.28-18.02.39:816][457]Cmd: MAP REBUILD ALLVISIBLE
+[2018.05.28-18.02.39:849][457]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.05.28-18.02.40:817][457]TextureStreamingBuild: Display: Build Texture Streaming took 0.024 seconds.
+[2018.05.28-18.02.41:055][457]LightingResults: New page: Lighting Build - May 28, 2018, 4:02:40 AM
+[2018.05.28-18.02.43:358][457]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.05.28-18.02.44:157][457]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.05.28-18.02.44:493][457]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.05.28-18.02.47:072][457]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.05.28-18.02.47:072][457]LogSwarmInterface: [TryOpenConnection] Local Process ID is 21108
+[2018.05.28-18.03.04:872][457]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.05.28-18.03.04:872][457]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.05.28-18.03.04:872][457]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.05.28-18.03.04:872][457]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.05.28-18.03.04:872][457]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.05.28-18.03.04:872][457]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.05.28-18.03.05:922][457]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.05.28-18.03.05:991][457]MapCheck: New page: Menu - May 28, 2018, 4:03:05 AM
+[2018.05.28-18.03.15:819][457]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 9,833.695ms to complete.
+[2018.05.28-18.03.15:878][457]LogEditorBuildUtils: Build time 0:36
+[2018.05.28-18.03.16:810][457]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.05.28-18.03.17:732][457]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.05.28-18.03.34:155][479]Job is a success!
+[2018.05.28-18.03.35:682][480]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.376s
+[2018.05.28-18.03.35:682][480]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.05.28-18.03.35:682][480]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2018.05.28-18.03.35:682][480]LogVolumetricLightmapImport:      Bricks at Level
+[2018.05.28-18.03.35:683][480]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2018.05.28-18.03.35:683][480]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2018.05.28-18.03.35:683][480]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2018.05.28-18.03.38:161][480]Lightmass on DESKTOP-KAES2OF: 6.76 sec total, 412 ms importing, 259 ms setup, 411 ms photons, 4.23 sec processing, 0 ms extra exporting [0/0 mappings]. Threads: 29.4 sec total, 0 ms processing.
+[2018.05.28-18.03.38:750][480]LogStaticLightingSystem: Illumination: 57.1 sec (50 ms encoding lightmaps, 12 ms encoding shadowmaps)
+[2018.05.28-18.03.38:750][480]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.05.28-18.03.38:756][480]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.05.28-18.03.52:784][480]DumpUnbuiltLightIteractions
+[2018.05.28-18.03.52:784][480]Lights with unbuilt interactions: 0
+[2018.05.28-18.03.52:784][480]
+[2018.05.28-18.03.52:784][480]Primitives with unbuilt interactions: 0
+[2018.05.28-18.03.52:809][481]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.05.28-18.03.52:809][481]MapCheck: New page: Menu - May 28, 2018, 4:03:52 AM
+[2018.05.28-18.03.53:981][481]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,171.156ms to complete.
+[2018.05.28-18.05.37:422][779]LogSavePackage: Save=1495.96ms
+[2018.05.28-18.05.37:423][779]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck_github/Jumpingtruck/Saved/Menu_Auto1E3CE4FF3411E3E22AA3B9C8FC06704F3.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck_github/Jumpingtruck/Saved/Autosaves/Game/Maps/Menu_Auto1.umap'
+[2018.05.28-18.05.37:424][779]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck_github/Jumpingtruck/Saved/Autosaves/Game/Maps/Menu_Auto1.umap
+[2018.05.28-18.05.37:873][779]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 3.029
+[2018.05.28-18.05.37:873][779]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.029
+[2018.05.28-18.05.38:361][779]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Menu_BuiltData] ([1] browsable assets)...
+[2018.05.28-18.05.38:362][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Menu_BuiltData]
+[2018.05.28-18.05.38:740][779]LogSavePackage: Save=374.68ms
+[2018.05.28-18.05.38:740][779]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck_github/Jumpingtruck/Saved/Menu_BuiltData_Auto1035F7AC64F06440F4470D0AA01E15B76.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck_github/Jumpingtruck/Saved/Autosaves/Game/Maps/Menu_BuiltData_Auto1.uasset'
+[2018.05.28-18.05.38:742][779]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck_github/Jumpingtruck/Saved/Autosaves/Game/Maps/Menu_BuiltData_Auto1.uasset
+[2018.05.28-18.05.38:742][779]LogFileHelpers: Auto-saving content packages took 0.666
+[2018.05.28-18.10.01:686][  0]Running C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/gamer/Documents/Unreal Projects/Jumpingtruck_github/Jumpingtruck/Jumpingtruck.uproject" -game -rocket -progress
+[2018.05.28-18.10.04:289][  0]Discovering modules, targets and source code for project...

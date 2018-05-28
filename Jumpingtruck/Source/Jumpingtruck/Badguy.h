@@ -24,6 +24,6 @@ public:
 	virtual void Tick(float DeltaSeconds) override;
 
 	//Called to bind functionality to input
-	virtual void SetupPlayerInputComponent(class UInputComponent* InputCompont)
-
-}
+	virtual void SetupPlayerInputComponent(class UInputComponent* InputCompont) override;
+	
+};
