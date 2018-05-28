@@ -539,3 +539,89 @@ ERROR: One or more of the modules specified using the '-module' argument could n
 [2018.05.28-11.07.47:618][115]LogLinker: Warning: Can't find file '/Platforms/Linux/GettingStarted'
 [2018.05.28-11.07.47:704][115]LogUObjectGlobals: Warning: Failed to find object 'Blueprint None./Platforms/Linux/GettingStarted'
 [2018.05.28-11.07.47:804][115]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Platforms/Linux/GettingStarted/index.html
+[2018.05.28-11.14.39:065][881]LogSavePackage: Save=29.51ms
+[2018.05.28-11.14.39:065][881]LogSavePackage: Moving '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck_github/Jumpingtruck/Saved/MenuEC7528E74A3B3C87D46FAE98210AA8C4.tmp' to '../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck_github/Jumpingtruck/Content/Maps/Menu.umap'
+[2018.05.28-11.14.39:072][881]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck_github/Jumpingtruck/Content/Maps/Menu.umap
+[2018.05.28-11.14.39:072][881]LogFileHelpers: Saving map 'Menu' took 2.472
+[2018.05.28-11.14.39:090][881]Cmd: MAP LOAD FILE="../../../../../../Users/gamer/Documents/Unreal Projects/Jumpingtruck_github/Jumpingtruck/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.28-11.14.39:090][881]LightingResults: New page: Lighting Build
+[2018.05.28-11.14.39:125][881]LoadErrors: New page: Loading map: Menu.umap
+[2018.05.28-11.14.39:158][881]MapCheck: New page: Map Check
+[2018.05.28-11.14.39:158][881]LightingResults: New page: Lighting Build
+[2018.05.28-11.14.39:280][881]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.28-11.14.39:295][881]LogAIModule: Creating AISystem for world Menu
+[2018.05.28-11.14.39:336][881]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.28-11.14.39:394][881]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.866ms to complete.
+[2018.05.28-11.14.39:395][881]LogFileHelpers: Loading map 'Menu' took 0.316
+[2018.05.28-11.24.34:648][317]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.026
+[2018.05.28-11.34.35:357][119]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.025
+[2018.05.28-11.38.34:055][835]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{8915e2b2-5af6-456c-979b-b290e1661e59} was removed. Shutting down audio device.
+[2018.05.28-11.38.34:055][835]LogInit: No audio devices found!
+[2018.05.28-11.38.38:425][848]LogInit: XAudio2 using 'ASUS MG28U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.28-11.44.36:052][917]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.026
+[2018.05.28-11.54.36:712][719]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.019
+[2018.05.28-12.04.37:379][521]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.017
+[2018.05.28-12.08.34:347][232]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{8915e2b2-5af6-456c-979b-b290e1661e59} was removed. Shutting down audio device.
+[2018.05.28-12.08.34:347][232]LogInit: No audio devices found!
+[2018.05.28-12.08.38:375][244]LogInit: XAudio2 using 'ASUS MG28U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.28-12.14.39:308][326]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.059
+[2018.05.28-12.24.41:049][131]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.051
+[2018.05.28-12.30.42:395][215]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{8915e2b2-5af6-456c-979b-b290e1661e59} was removed. Shutting down audio device.
+[2018.05.28-12.30.42:395][215]LogInit: No audio devices found!
+[2018.05.28-12.30.46:449][227]LogInit: XAudio2 using 'ASUS MG28U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.28-12.34.41:808][932]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.082
+[2018.05.28-12.36.14:703][211]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{8915e2b2-5af6-456c-979b-b290e1661e59} was removed. Shutting down audio device.
+[2018.05.28-12.36.14:704][211]LogInit: No audio devices found!
+[2018.05.28-12.36.18:787][223]LogInit: XAudio2 using 'ASUS MG28U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.28-12.40.17:792][940]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{8915e2b2-5af6-456c-979b-b290e1661e59} was removed. Shutting down audio device.
+[2018.05.28-12.40.17:792][940]LogInit: No audio devices found!
+[2018.05.28-12.40.22:188][953]LogInit: XAudio2 using 'ASUS MG28U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.28-12.44.42:703][734]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.022
+[2018.05.28-12.54.43:407][536]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.050
+[2018.05.28-13.04.44:172][336]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.018
+[2018.05.28-13.14.46:328][138]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.017
+[2018.05.28-13.24.46:942][940]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.015
+[2018.05.28-13.34.47:636][742]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.015
+[2018.05.28-13.44.48:281][544]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.016
+[2018.05.28-13.54.51:029][346]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.017
+[2018.05.28-14.04.54:078][148]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.085
+[2018.05.28-14.14.56:090][950]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.016
+[2018.05.28-14.24.56:832][752]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.015
+[2018.05.28-14.34.57:506][554]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.016
+[2018.05.28-14.44.58:174][356]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.015
+[2018.05.28-14.54.58:842][158]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.016
+[2018.05.28-15.04.59:516][960]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.016
+[2018.05.28-15.15.00:224][762]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.014
+[2018.05.28-15.25.00:856][564]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.016
+[2018.05.28-15.35.01:543][366]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.033
+[2018.05.28-15.45.02:197][168]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.018
+[2018.05.28-15.55.02:880][970]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.027
+[2018.05.28-16.01.43:198][171]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{8915e2b2-5af6-456c-979b-b290e1661e59} was removed. Shutting down audio device.
+[2018.05.28-16.01.43:198][171]LogInit: No audio devices found!
+[2018.05.28-16.01.47:304][183]LogInit: XAudio2 using 'ASUS MG28U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.28-16.02.29:942][311]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{8915e2b2-5af6-456c-979b-b290e1661e59} was removed. Shutting down audio device.
+[2018.05.28-16.02.29:943][311]LogInit: No audio devices found!
+[2018.05.28-16.02.31:960][317]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{8915e2b2-5af6-456c-979b-b290e1661e59} was removed. Shutting down audio device.
+[2018.05.28-16.02.31:960][317]LogInit: No audio devices found!
+[2018.05.28-16.02.32:664][319]LogInit: XAudio2 using 'ASUS MG28U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.28-16.05.03:722][772]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.042
+[2018.05.28-16.13.13:898][240]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{8915e2b2-5af6-456c-979b-b290e1661e59} was removed. Shutting down audio device.
+[2018.05.28-16.13.13:924][240]LogInit: No audio devices found!
+[2018.05.28-16.13.17:665][252]LogInit: XAudio2 using 'ASUS MG28U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.28-16.15.04:638][572]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.072
+[2018.05.28-16.25.05:170][374]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.027
+[2018.05.28-16.35.05:976][176]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.124
+[2018.05.28-16.45.06:830][977]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.192
+[2018.05.28-16.46.19:674][196]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{8915e2b2-5af6-456c-979b-b290e1661e59} was removed. Shutting down audio device.
+[2018.05.28-16.46.19:710][196]LogInit: No audio devices found!
+[2018.05.28-16.46.23:971][209]LogInit: XAudio2 using 'ASUS MG28U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.28-16.55.07:471][779]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.018
+[2018.05.28-16.58.17:256][348]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{8915e2b2-5af6-456c-979b-b290e1661e59} was removed. Shutting down audio device.
+[2018.05.28-16.58.17:256][348]LogInit: No audio devices found!
+[2018.05.28-16.58.21:359][360]LogInit: XAudio2 using 'ASUS MG28U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.28-17.05.08:170][580]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.020
+[2018.05.28-17.15.08:520][381]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.019
+[2018.05.28-17.25.09:368][183]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.038
+[2018.05.28-17.35.13:235][994]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.039
+[2018.05.28-17.45.13:929][796]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.016
+[2018.05.28-17.55.14:368][597]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.016
