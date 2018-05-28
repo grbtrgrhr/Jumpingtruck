@@ -14,18 +14,16 @@ class JUMPINGTRUCK_API ABadguy : public ACharacter
 public:
 	// Sets default values for this character's properties
 	ABadguy();
+	UPROPERTY(EditAnywhere, Category = Behavior)
+	class UbehaviorTree *BotBehavior;
 
-protected:
-	// Called when the game starts or when spawned
+	//Called when the game starts or when spaned
 	virtual void BeginPlay() override;
 
-public:	
-	// Called every frame
-	virtual void Tick(float DeltaTime) override;
+	//Called every frame
+	virtual void Tick(float DeltaSeconds) override;
 
-	// Called to bind functionality to input
-	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
+	//Called to bind functionality to input
+	virtual void SetupPlayerInputComponent(class UInputComponent* InputCompont)
 
-	
-	
-};
+}
