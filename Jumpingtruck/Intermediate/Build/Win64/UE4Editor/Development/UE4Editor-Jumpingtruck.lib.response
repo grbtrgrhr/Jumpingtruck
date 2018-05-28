@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Jumpingtruck.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\gamer\Documents\Unreal Projects\Jumpingtruck_github\Jumpingtruck\Intermediate\Build\Win64\UE4Editor\Development\Jumpingtruck\Badguy.cpp.obj"
+"C:\Users\gamer\Documents\Unreal Projects\Jumpingtruck_github\Jumpingtruck\Intermediate\Build\Win64\UE4Editor\Development\Jumpingtruck\Jumpingtruck.cpp.obj"
+"C:\Users\gamer\Documents\Unreal Projects\Jumpingtruck_github\Jumpingtruck\Intermediate\Build\Win64\UE4Editor\Development\Jumpingtruck\Badguy.gen.cpp.obj"
+"C:\Users\gamer\Documents\Unreal Projects\Jumpingtruck_github\Jumpingtruck\Intermediate\Build\Win64\UE4Editor\Development\Jumpingtruck\Jumpingtruck.init.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Jumpingtruck\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\gamer\Documents\Unreal Projects\Jumpingtruck_github\Jumpingtruck\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Jumpingtruck.lib"

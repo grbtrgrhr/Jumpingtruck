@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Jumpingtruck.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{D7736072-2EC0-416B-8430-91DD70195BB6}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Jumpingtruck.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\JumpingtruckEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{902C635B-F630-425E-9816-0EA2177CFB21}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Jumpingtruck">
+			<UniqueIdentifier>{3B958BD9-234C-46FE-BCA8-283877A72F76}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\Jumpingtruck\Badguy.cpp">
+			<Filter>Source\Jumpingtruck</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Jumpingtruck\Badguy.h">
+			<Filter>Source\Jumpingtruck</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Jumpingtruck\Guy.cpp">
+			<Filter>Source\Jumpingtruck</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Jumpingtruck\Guy.h">
+			<Filter>Source\Jumpingtruck</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\Jumpingtruck\Jumpingtruck.Build.cs">
+			<Filter>Source\Jumpingtruck</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Jumpingtruck\Jumpingtruck.cpp">
+			<Filter>Source\Jumpingtruck</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Jumpingtruck\Jumpingtruck.h">
+			<Filter>Source\Jumpingtruck</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
