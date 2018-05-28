@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\Jumpingtruck.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{D7736072-2EC0-416B-8430-91DD70195BB6}</UniqueIdentifier>
+			<UniqueIdentifier>{F7EF6241-8A55-40CC-B20A-C08203905B1C}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\Jumpingtruck.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{902C635B-F630-425E-9816-0EA2177CFB21}</UniqueIdentifier>
+			<UniqueIdentifier>{F5CFD7EE-A3EE-47EB-ACDD-FFA21DE29DE5}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,7 +31,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\Jumpingtruck">
-			<UniqueIdentifier>{3B958BD9-234C-46FE-BCA8-283877A72F76}</UniqueIdentifier>
+			<UniqueIdentifier>{60AC1E97-FE65-4409-8CAD-B4EAD67AF790}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\Source\Jumpingtruck\Badguy.cpp">
 			<Filter>Source\Jumpingtruck</Filter>
